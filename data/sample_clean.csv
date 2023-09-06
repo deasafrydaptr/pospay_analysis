@@ -1,0 +1,1371 @@
+,content,label
+0,"['transaksi', 'tunda', 'komplain', 'selesai', 'selesai']",1.0
+1,"['tingkat', 'turun', 'kualitas', 'kencang', 'menang', 'wajah', 'tingkat', 'masuk', 'saldo', 'minimum', 'transaksi', 'lancar', 'jaya']",1.0
+2,"['install', 'buka']",1.0
+3,"['buka', 'pos', 'giro', 'pos', 'giro', 'bantu']",1.0
+4,"['kelas', 'bumn', 'kantor', 'pos', 'aplikasi', 'daftar', 'masuk', 'parah', 'banget']",1.0
+5,"['aplikasi', 'buruk']",1.0
+6,"['beli', 'pulsa', 'saldo', 'saldo', 'rekening', 'baik', 'isi', 'pulsa', 'tidak bisa', 'tolong', 'benar', 'pos', 'kecewa']",1.0
+7,"['dana', 'top', 'up', 'kirim', 'masuk', 'akun', 'giro', 'pos', 'dana']",1.0
+8,"['aplikasi', 'busuk', 'saldo', 'ribu', 'uninstall', 'aplikasi']",1.0
+9,"['tolong', 'hapus', 'data', 'nama', 'pinjam', 'lengkap', 'data', 'isi', 'suruh', 'aplikasi', 'pinjam', 'awas', 'tanggung', 'aplikasi', 'tipu']",1.0
+10,"['topup', 'pakai', 'bca', 'virtual', 'tau', 'potong', 'potong', 'transaksi', 'alhasil', 'saldo', 'bayar', 'pdam']",1.0
+11,['buka'],1.0
+12,"['aplikasi', 'masuk', 'uninstall', 'buka', 'masuk']",1.0
+13,"['pospay', 'baik', 'aplikasi', 'cair', 'bsu', 'aplikasi', 'bobrok']",1.0
+14,"['aplikasi', 'muat', 'foto', 'ktp', 'tanggap']",1.0
+15,"['saldo', 'sisa', 'ribu', 'beli', 'pulsa', 'ribu', 'aneh']",1.0
+16,"['unduh', 'komentar', 'negatif', 'buruk']",1.0
+17,"['baru', 'lihat', 'rating', 'jelek', 'jelek', 'tolong', 'baik', 'libur', 'jam', 'kerja', 'kesan', 'lambat', 'orang', 'sistem', 'daring']",1.0
+18,"['kali', 'verifikasi', 'akun', 'muncul', 'muncul', 'beri tahu', 'surel', 'verifikasi', 'liteplus', 'verifikasi', 'fungsi', 'aplikasi', 'coba']",1.0
+19,"['kali', 'baru', 'lite', 'plus', 'gagal', 'tulis', 'mohon', 'maaf', 'pelihara', 'nik', 'nomor', 'nik', 'tanggal', 'lahir', 'daftar', 'dompet', 'lancar', 'kendala', 'payah', 'tindak', 'lanjut', 'guna', 'kecewa']",1.0
+20,['bantu'],0.0
+21,"['rekening', 'giro', 'pos', 'personal', 'transaksi', 'pin', 'sesuai', 'pilih', 'menu', 'lupa', 'pin', 'nama', 'kandung', 'sesuai', 'anak', 'lupa', 'nama', 'kandung', 'tembak', 'kirim', 'surel', 'solusi', 'konkrit', 'tolong', 'kredibilitas', 'kapok']",1.0
+22,"['aplikasi', 'rugi', 'komplain', 'bulan', 'proses', 'uang', 'rugi', 'ribu', 'unduh', 'aplikasi', 'pikir', 'rugi']",1.0
+23,"['aplikasi', 'salah', 'aplikasi']",1.0
+24,"['saldo', 'tidak bisa', 'beli', 'pulsa']",1.0
+25,"['sungguh', 'kecewa', 'pasu', 'kode', 'promo', 'referral', 'saldo', 'kupon', 'beli', 'pulsa', 'maaf', 'saldo', 'letak', 'adil']",1.0
+26,"['daftar', 'masuk', 'kode', 'otp', 'masalah']",1.0
+27,"['aplikasi', 'hadiah', 'teman', 'masuk', 'buang', 'kuota']",1.0
+28,"['permisi', 'kasih', 'bintang', 'masuk', 'aplikasi', 'versi', 'android', 'tolong', 'solusi']",1.0
+29,"['tolong', 'tambah', 'metode', 'isi', 'saldo', 'bank', 'bri', 'mandiri', 'bni', 'usaha', 'bumn', 'bank', 'bri', 'bri', 'bumn', 'terima kasih']",0.0
+30,"['jelek', 'beli', 'pulsa', 'saldo']",1.0
+31,"['aplikasi', 'gagal', 'foto', 'ktp', 'kalah', 'aplikasi', 'bikin', 'anak', 'sekolah']",1.0
+32,"['sistem', 'bayar tempat', 'kecewa', 'barang', 'terang', 'gagal', 'informasi', 'karna', 'alamat', 'lengkap', 'padahal', 'tulis', 'alamat', 'lengkap', 'nomor', 'telepon', 'terima', 'cantum', 'terima', 'bilang', 'paket', 'beri tahu', 'pos', 'paket', 'proses', 'status', 'gagal', 'hubung', 'terima', 'tanggap']",1.0
+33,"['aplikasi', 'jelek']",1.0
+34,"['aplikasi', 'kelas', 'bumn', 'salah', 'transaksi', 'pulsa', 'salah']",1.0
+35,"['masuk', 'aplikasi', 'masuk', 'metode', 'bayar', 'mahal', 'saldo', 'hilang']",1.0
+36,"['tingkat', 'lite', 'plus', 'tepat', 'isi', 'data', 'nik', 'klik', 'muncul', 'pemberitahuan', 'sistem', 'pelihara', 'tolong', 'bagus', 'aplikasi', 'libat', 'orang', 'kait', 'bsu', 'tolong', 'cepat']",1.0
+37,"['administrator', 'masuk', 'surel', 'tanggap']",1.0
+38,"['kirim', 'pospay', 'nomor', 'bri', 'transaksi', 'sukses', 'saldo', 'pospay', 'kurang', 'cek', 'mutasi', 'uang', 'masuk', 'rekening', 'mohon', 'bantu', 'uang']",1.0
+39,"['senang', 'hati', 'kasih', 'bintang', 'minus', 'kasih', 'bintang', 'wajah', 'senyum', 'senyum', 'wajah', 'senyum', 'senyum', 'tugas', 'developer', 'tolong', 'proses', 'kasihan', 'salah', 'tingkat', 'payah']",1.0
+40,"['aplikasi', 'busuk']",1.0
+41,['benar'],1.0
+42,"['pospay', 'pospay', 'sampah', 'masuk', 'akun', 'sulit', 'niat', 'aplikasi', 'aplikasi', 'sampah']",1.0
+43,"['aplikasi', 'top', 'up', 'aplikasi', 'gagal', 'transaksi', 'susah', 'kembali', 'uang']",1.0
+44,"['kecewa', 'unduh', 'aplikasi', 'buka']",1.0
+45,"['beli', 'pulsa', 'topup', 'tolong', 'solusi']",1.0
+46,['rating'],0.0
+47,"['masuk', 'password', 'salah', 'lupa', 'password', 'data', 'tanggal', 'lahir', 'salah', 'data', 'cek', 'ulang', 'aplikasi', 'salah']",1.0
+48,"['aplikasi', 'cacat', 'kalah', 'beli', 'terima', 'barang', 'bayar', 'tempat', 'minggu', 'status', 'kirim', 'uang', 'cair', 'mata', 'kerja', 'rugi', 'dagang']",1.0
+49,"['susah', 'banget', 'tingkat']",1.0
+50,"['busuk', 'beli', 'pulsa', 'malam', 'malas', 'guna', 'coba']",1.0
+51,['gelandang'],0.0
+52,"['jelek', 'baru', 'buka', 'bagus', 'jelek', 'buka']",1.0
+53,"['paksa', 'unduh', 'aplikasi', 'suruh', 'pos']",1.0
+54,"['isi', 'token', 'aplikasi']",1.0
+55,"['baru', 'aplikasi', 'buka', 'android', 'restart', 'coba', 'kali', 'restart', 'tolong', 'perhati']",1.0
+56,"['aplikasi', 'jelek']",1.0
+57,"['scan', 'ktp', 'kali', 'coba', 'tidak bisa', 'aplikasi', 'muat']",1.0
+58,"['ganti', 'password', 'up', 'password', 'mudah', 'tebak']",0.0
+59,"['kurang', 'masuk', 'logout', 'dana', 'hilang', 'pakai', 'aplikasi', 'mending', 'pikir', 'install']",1.0
+60,"['aplikasi', 'salah', 'lokasi']",1.0
+61,"['layak', 'salah']",1.0
+62,['buka'],1.0
+63,"['penasaran', 'aplikasi', 'mending', 'coba', 'unduh', 'rasa', 'topup', 'tingkat', 'layan', 'konfirmasi', 'saldo', 'rekening', 'nganggur', 'pakai', 'beli', 'pulsa']",1.0
+64,"['aplikasi', 'mantap']",0.0
+65,"['proses', 'tingkat', 'liteplus', 'akun', 'pakai', 'aplikasi', 'voucher', 'bonus', 'pulsa', 'pakai', 'abal', 'abal', 'aplikasi', 'maaf', 'kasih', 'bintang']",1.0
+66,"['ribet', 'repot', 'biaya', 'terima kasih']",1.0
+67,"['daftar', 'ktp', 'daftar']",1.0
+68,['bohong'],1.0
+69,['masalah'],1.0
+70,"['penuh', 'salah', 'layak', 'rilis', 'playstore', 'kantor', 'pos', 'menginstall', 'pospay', 'lawak', 'tingkat', 'guna', 'kecewa', 'barang', 'susah', 'orang', 'selesai', 'repot', 'lipat']",1.0
+71,"['susah', 'unduh']",1.0
+72,['baru'],1.0
+73,"['ubah', 'pin', 'ribet', 'nama', 'kandung', 'nomor', 'handphone', 'salah']",1.0
+74,"['susah', 'masuk', 'ganti', 'password', 'ribet', 'buruk', 'buruk', 'buruk', 'uninstall']",1.0
+75,"['aneh', 'dompet', 'saldo', 'minimal', 'depan', 'kantor', 'pos', 'kompetitif']",1.0
+76,['aplikasi'],1.0
+77,"['aplikasi', 'tipu', 'mending', 'hapus', 'tidak guna', 'sumpah', 'saldo', 'beli', 'pulsa', 'tidak bisa', 'pemberitahuan', 'saldo', 'sisa']",1.0
+78,"['rekening', 'buka', 'ganggu', 'bantu']",1.0
+79,[],0.0
+80,"['install', 'buka']",1.0
+81,"['baru', 'versi', 'tunda']",1.0
+82,"['password', 'masuk', 'modal', 'aplikasi']",1.0
+83,"['ulas', 'jelek', 'harap', 'perhati', 'ulas', 'rasa', 'tindak', 'bumn', 'repot']",1.0
+84,"['tantang', 'guna', 'lupa', 'password', 'salah', 'password', 'masuk', 'salah', 'kota', 'jangkau', 'dalam', 'desa', 'kampung', 'kota', 'suruh', 'selesai', 'benah', 'lewat', 'surel', 'verifikasi', 'masuk', 'sms', 'pos', 'sms', 'gateway', 'pos', 'guna', 'cetak', 'struk', 'trial', 'aplikasi', 'golong', 'beta', 'tester']",1.0
+85,"['baik', 'gopay']",0.0
+86,[],1.0
+87,['payah'],1.0
+88,"['tingkat', 'akun', 'liteplus', 'tidak bisa', 'tunggu', 'balas', 'surel', 'coba', 'kali', 'isi', 'pulsa']",1.0
+89,"['aplikasi', 'sampah', 'tingkat', 'verifikasi', 'data', 'foto', 'ktp', 'selfie', 'bener', 'sesuai', 'baru', 'aplikasi', 'baru', 'tingkat', 'akun', 'aplikasi', 'plat', 'merah']",1.0
+90,"['proses', 'tingkat', 'minggu', 'tingkat', 'tingkat', 'manual', 'tingkat', 'aplikasi']",1.0
+91,"['uang', 'bayar tempat', 'oktober', 'masuk', 'komplain', 'pusat', 'pusat', 'tanggap', 'solusi']",1.0
+92,"['aplikasi', 'payah', 'tingkat', 'pos', 'bayar', 'plus', 'lite', 'gagal', 'karna', 'aplikasi', 'salah', 'tolong', 'baik']",1.0
+93,"['buka', 'aplikasi', 'tarik', 'dana', 'loket', 'minggu', 'aplikasi', 'buka', 'blank']",1.0
+94,"['souvenir', 'umpat']",1.0
+95,"['daftar', 'pakai']",1.0
+96,"['ngirim', 'paket', 'banget', 'ambil', 'express', 'tuju', 'paket', 'sangkut', 'hilang', 'minggu', 'jelek', 'kali', 'layan']",1.0
+97,"['kelas', 'bumn', 'aplikasi', 'miris', 'etos', 'kerja', 'kasih', 'solusi', 'beban', 'nama', 'pos', 'jelek']",1.0
+98,"['mohon', 'maaf', 'administrator', 'daftar', 'kode', 'otp', 'muncul', 'tunggu', 'jam', 'muncul', 'daftar', 'ulang', 'kode', 'otp', 'muncul', 'daftar', 'syarat', 'isi', 'administrator', 'mohon', 'solusi', 'terima kasih']",1.0
+99,"['khusus', 'pegawai', 'mudah', 'masuk', 'susah', 'baharu', 'log', 'in', 'tolong', 'tingkat', 'server']",1.0
+100,"['parah', 'baru', 'saldo', 'pakai', 'jari jempol', 'bawah']",1.0
+101,"['minggu', 'buka', 'aplikasi', 'sinyal', 'penuh', 'paket', 'penuh', 'muncul', 'layar', 'putih', 'muat', 'muka', 'nang', 'keras', 'muka', 'nang', 'keras', 'muka', 'nang', 'keras', 'muka', 'nang', 'keras']",1.0
+102,['buka'],1.0
+103,['bintang'],0.0
+104,"['aplikasi', 'lambat', 'tingkat', 'ambil', 'uang', 'muat']",1.0
+105,['aplikasi'],1.0
+106,"['aplikasi', 'php', 'sesuai', 'promo', 'daftar', 'bonus', 'voucher', 'gilir', 'komplain', 'suruh', 'top', 'up', 'saldo', 'ribu', 'saldo', 'gilir', 'isi', 'saldo', 'ribu', 'malas', 'komplain']",1.0
+107,"['aplikasi', 'verifikasi', 'data', 'selesai', 'tolong', 'baik']",1.0
+108,"['aplikasi', 'verifikasi', 'akun', 'ampun', 'ambil', 'uang', 'uang', 'ambil', 'orang', 'tolong', 'mudah']",1.0
+109,"['akun', 'blokir', 'surel', 'hubung', 'balas', 'saldo', 'akun']",1.0
+110,"['aplikasi', 'umpat', 'umpat', 'narik', 'umpat']",1.0
+111,['buka'],1.0
+112,['umpat'],1.0
+113,"['aplikasi', 'kalap', 'masuk', 'masuk', 'bola', 'surel', 'password', 'catat', 'beda', 'umpat', 'isi', 'username', 'password', 'umpat', 'umpat']",1.0
+114,"['bintang', 'buka', 'layar', 'putih', 'tolong', 'baik']",1.0
+115,"['isi', 'data', 'ribet', 'salah', 'desa', 'kota', 'daftar', 'suruh', 'pulang', 'suruh', 'isi', 'rumah', 'aplikasi', 'stabil', 'suruh', 'sangka', 'kali', 'rumah', 'hamil', 'aplikasi', 'bagus', 'salah', 'buang', 'tenaga']",1.0
+116,"['tingkat', 'liteplus', 'minggu', 'proses']",1.0
+117,"['voucher', 'pulsa', 'ribu', 'aplikasi', 'busuk']",1.0
+118,"['daftar', 'saldo', 'ribu', 'pakai', 'nama', 'umpat']",1.0
+119,"['aplikasi', 'jelek', 'beli', 'pulsa', 'indosat', 'saldo', 'pospay', 'potong', 'nomor', 'hp', 'masuk', 'telepon', 'call', 'center', 'indosat', 'transaksi', 'suruh', 'komplain', 'pospay', 'pospay', 'fitur', 'bantu', 'langgan', 'layan', 'aplikasi', 'baik']",1.0
+120,"['aplikasi', 'lawak', 'ngendap', 'saldo', 'tingkat', 'kirim', 'gagal', 'pin', 'bayar', 'pajak', 'bea', 'cukai', 'gagal', 'alibi', 'gagal', 'pin', 'pin', 'masuk', 'pin', 'bintang', 'nol', 'parah']",1.0
+121,"['maaf', 'paksa', 'uninstall', 'coba', 'topup', 'bayar', 'pajak', 'layak', 'aplikasi']",1.0
+122,[],0.0
+123,"['masuk', 'guna', 'temu']",1.0
+124,"['isi', 'saldo', 'tagih', 'batas', 'bayar', 'muncul', 'terang', 'saldo']",1.0
+125,"['aplikasi', 'sampah', 'aplikasi']",1.0
+126,"['buat', 'manajemen', 'sistem', 'layan', 'swasta', 'bumn', 'plat', 'merah', 'masuk', 'akun', 'lupa', 'password', 'komplain', 'agen', 'suruh', 'kirim', 'data', 'kirim', 'foto', 'menu', 'lampir', 'file', 'ujung', 'suruh', 'komplain', 'via', 'surel', 'ujung', 'kesal', 'banget', 'ribet', 'selesai']",1.0
+127,"['paket', 'akses', 'hp', 'root', 'buka', 'duit', 'hilang', 'ambil']",1.0
+128,"['tolong', 'baik', 'sistem', 'kamera', 'ktp']",1.0
+129,"['tidak bisa', 'buka', 'aplikasi', 'payah']",1.0
+130,"['baru', 'baru', 'buka', 'aneh']",1.0
+131,"['jelek', 'developer', 'tipu']",1.0
+132,"['pakai', 'pos', 'giro', 'mobile', 'bantu', 'bayar tempat', 'pos', 'kali', 'kirim', 'barang', 'pakai', 'sistem', 'bayar tempat', 'bagus', 'barang', 'terima', 'beli', 'uang', 'masuk', 'rekening', 'komplain', 'masuk', 'uang', 'uang', 'masuk', 'padahal', 'bayar', 'ongkir', 'potong', 'harga', 'barang', 'setor', 'ongkir', 'padahal', 'bayar', 'beli', 'harga', 'barang', 'ongkir']",1.0
+133,"['aplikasi', 'jelek', 'unduh']",1.0
+134,"['tingkat', 'liteplus', 'susah', 'pelihara', 'sungguh', 'kecewa', 'mending', 'install', 'jari jempol', 'bawah']",1.0
+135,"['lambat', 'bodoh', 'masuk', 'aplikasi', 'putih', 'lambat', 'gila']",1.0
+136,"['enak', 'bayar tempat', 'profesional', 'estimasi', 'antar', 'rumah', 'masuk', 'status', 'kurir', 'malas', 'konsumen', 'ambil', 'langsung', 'kantor', 'bayar', 'total', 'bayar tempat', 'uang', 'masuk', 'akun', 'pospay', 'apa', 'uang', 'biaya', 'kirim', 'biaya', 'bayar tempat', 'potong', 'uang', 'setor', 'marah', 'wajah', 'marah', 'wajah', 'marah', 'wajah']",1.0
+137,"['aplikasi', 'abal', 'daftar', 'username', 'password', 'masuk', 'up', 'salah', 'ember', 'jengkel']",1.0
+138,"['baru', 'baru', 'smartphone', 'deteksi', 'root', 'root', 'coba', 'hp', 'teman', 'teman', 'gaptek', 'hp', 'inti', 'hp', 'root', 'deteksi', 'root', 'baik', 'gaptek', 'kali', 'malu', 'aplikasi', 'usaha', 'bumn', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati']",1.0
+139,['buka'],1.0
+140,"['cek', 'terima', 'bsu', 'logo', 'kemnaker', 'logo', 'klik', 'pergi', 'kantor', 'pos', 'puas']",1.0
+141,['buka'],1.0
+142,"['sandi', 'sesuai', 'syarat', 'ulang', 'kali', 'kali']",1.0
+143,"['aplikasi', 'jempol']",1.0
+144,"['tidak jelas', 'daftar', 'akun', 'layan', 'lokasi', 'nonaktif']",1.0
+145,['muat'],1.0
+146,"['umpat', 'saldo', 'ambil', 'parah', 'aplikasi', 'lambat']",1.0
+147,"['transaksi', 'buruk', 'ganggu']",1.0
+148,"['maaf', 'bintang', 'bagus', 'transaksi', 'administrator', 'potong', 'administrator', 'sesuai', 'suara', 'kemarin', 'pegawai', 'pos', 'rugi', 'bayar tempat', 'potong', 'biaya', 'jual', 'daring', 'untung', 'modal']",1.0
+149,['kirim'],1.0
+150,"['salah', 'aplikasi']",1.0
+151,"['daftar', 'susah', 'aplikasi']",1.0
+152,"['aplikasi', 'umpat', 'orang', 'emosi']",1.0
+153,"['ampun', 'daftar']",1.0
+154,"['baik', 'sistem', 'ambil', 'gambar', 'foto', 'buram', 'hasil']",1.0
+155,"['buang', 'kouta', 'kasih', 'bintang', 'bener', 'daftar', 'masuk']",1.0
+156,"['aplikasi', 'bantu', 'aplikasi']",0.0
+157,"['sumpah', 'aplikasi', 'umpat', 'ikut', 'tunjuk', 'benar', 'marah', 'wajah', 'marah', 'wajah', 'marah', 'wajah', 'marah', 'wajah']",1.0
+158,"['aplikasi', 'sampah', 'tidak bisa', 'niat', 'aplikasi', 'cari', 'untung', 'ramai', 'unduh', 'cek', 'bsu', 'aplikasi', 'sampah']",1.0
+159,"['aplikasi', 'asik']",1.0
+160,"['ecek', 'bsu', 'buka', 'foto', 'ktp']",1.0
+161,['puas'],1.0
+162,"['umpat', 'gara', 'aplikasi', 'guru', 'cari', 'referensi', 'sekolah']",1.0
+163,"['aplikasi', 'masuk', 'password', 'bener', 'salah', 'ganti', 'password', 'kali', 'salah', 'buang', 'mending', 'dompet digital', 'masuk', 'tinggal', 'klik', 'langsung', 'transaksi', 'saldo', 'endap']",1.0
+164,"['koin', 'redeem', 'coba', 'tukar', 'menu', 'belanja', 'top', 'up', 'dompet', 'pulsa', 'token', 'gagal', 'tukar']",1.0
+165,"['terus', 'muncul', 'ktp', 'catat', 'persis', 'ktp', 'uninstall']",1.0
+166,"['bayar', 'pbb', 'gagal', 'hasil', 'bayar', 'pbb', 'pakai', 'aplikasi', 'tolong', 'komentar']",1.0
+167,"['masuk', 'layar', 'putih', 'coba']",1.0
+168,"['baru', 'buruk', 'gateway', 'baru', 'kecewa', 'install']",1.0
+169,"['kurir', 'andal', 'tanggung', 'pakai', 'kurir', 'kantor', 'pos', 'kurir', 'serius', 'cari', 'bayar', 'kirim', 'bayar tempat', 'contoh', 'ninja express']",1.0
+170,"['kasih', 'saldo', 'berkah', 'isi', 'isi', 'nama', 'ingkar', 'janji']",1.0
+171,"['rilis', 'administrator', 'pusing', 'guna']",1.0
+172,"['aplikasi', 'cacat']",1.0
+173,"['cek', 'bantu', 'bsu', 'susah', 'banget', 'foto', 'muat', 'susah', 'masyarakat', 'cek', 'bantu']",1.0
+174,"['biaya', 'administrator', 'untung', 'kali']",1.0
+175,"['install', 'buka', 'tidak bisa', 'antuk', 'wajah']",1.0
+176,['coklat'],1.0
+177,"['ribet', 'layan', 'jelek', 'daftar', 'masuk']",1.0
+178,"['tidak bisa', 'tekan']",1.0
+179,"['mohon', 'bantu', 'unduh', 'aplikasi', 'transaksi', 'beli', 'tiket']",1.0
+180,"['milik', 'bumn', 'kasih', 'karyawan', 'swasta', 'gaji', 'umr', 'nik', 'masuk', 'terima', 'bsu']",1.0
+181,['salah'],1.0
+182,"['masuk', 'masuk', 'pesan', 'masuk', 'perangkat', 'top', 'up', 'parah']",1.0
+183,"['pepet', 'masuk', 'kadang', 'salah']",1.0
+184,"['susah', 'daftar', 'password']",1.0
+185,"['tolong', 'aplikasi', 'hapus', 'tipu', 'anak', 'yatim', 'tipu', 'sekolah']",1.0
+186,['ribet'],1.0
+187,[],1.0
+188,"['aplikasi', 'akses', 'padahal', 'cek', 'bsu', 'kemnaker', 'daftar', 'terima', 'aplikasi', 'pospay', 'juli', 'akses']",1.0
+189,"['pakai', 'verifikasi', 'akun', 'unggah', 'ktp']",1.0
+190,"['daftar', 'kencang', 'menang', 'wajah', 'butuh', 'masuk', 'tolong', 'bantu', 'biar', 'daftar', 'pospay']",1.0
+191,"['susah', 'operasi']",1.0
+192,"['usaha', 'pos', 'aplikasi', 'kecewa']",1.0
+193,"['aplikasi', 'kaget']",1.0
+194,"['aplikasi', 'bonus', 'pakai', 'top', 'up', 'sesal']",1.0
+195,"['aplikasi', 'jelek', 'cocok', 'bisnis', 'umkm', 'tingkat', 'lite', 'premium', 'tanggap', 'rekomendasi', 'banget', 'bisnis']",1.0
+196,"['habis', 'baru', 'salah', 'mohon', 'baik', 'terima kasih']",1.0
+197,"['kirim', 'shopeepay', 'biaya', 'administrator', 'nyaman', 'kirim', 'biaya', 'administrator']",1.0
+198,"['aplikasi', 'tolong', 'baru', 'baik', 'sistem', 'terima kasih']",1.0
+199,"['salah', 'akun', 'alas', 'server', 'baca']",1.0
+200,"['masuk', 'surel', 'sandi', 'mohon', 'baik', 'rugi', 'jual', 'kantor', 'pos', 'tanggap', 'mohon', 'baik']",1.0
+201,"['saldo', 'saldo', 'mata', 'bilang']",1.0
+202,"['ayo', 'administrator', 'pakai', 'saldo', 'kirim', 'bank', 'layan', 'kirim', 'bank', 'baru', 'aplikasi', 'kemarin', 'wanita', 'frustasi']",1.0
+203,"['usaha', 'milik', 'bumn', 'kesan', 'amatir', 'maaf', 'jujur', 'untuk', 'daftar', 'aplikasi', 'pos', 'giro', 'data', 'ktp', 'daftar', 'ganti', 'ktp', 'istri', 'data', 'ktp', 'daftar', 'konyol', 'aku', 'wni', 'wajah', 'bahagia', 'aplikasi', 'agen pos', 'parah', 'amatir']",1.0
+204,"['pospay', 'akun', 'kendala', 'sistem', 'repot', 'aplikasi', 'kendala']",1.0
+205,"['tidak jelas', 'umpat', 'saldo', 'bayar', 'banget']",1.0
+206,"['aplikasi', 'besok', 'ambil', 'foto', 'ktp', 'putar', 'putar', 'putar', 'putar', 'putar', 'putar', 'putar', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia', 'wajah', 'bahagia']",1.0
+207,"['tolong', 'guna', 'posgiro', 'kirim', 'barang', 'sistem', 'bayar tempat', 'uang', 'cair']",1.0
+208,"['aplikasi', 'lambat', 'tunda', 'parah', 'masuk', 'pasu', 'username', 'password', 'bener', 'bilang', 'salah', 'umpat']",1.0
+209,"['aplikasi', 'henti', 'buka']",1.0
+210,"['aplikasi', 'auto', 'uninstall']",1.0
+211,"['susah', 'buka']",1.0
+212,"['aplikasi', 'kecewa', 'banget', 'coba', 'daftar', 'akun', 'aplikasi', 'gilir', 'isi', 'kode', 'otp', 'sms', 'kasih', 'kode', 'otp', 'buang', 'buang', 'terima kasih']",1.0
+213,"['scan', 'ktp', 'salah', 'muncul', 'tulis', 'paham', 'maksud', 'bantu', 'ambil', 'barcode']",1.0
+214,"['daftar', 'kode', 'otp', 'digit', 'kirim', 'digit', 'cepat', 'baik', 'cepat']",1.0
+215,"['foto', 'ktp', 'salah', 'deteksi', 'baik']",1.0
+216,"['kasih', 'bintang', 'ikut', 'isi', 'saldo', 'via', 'mobile banking', 'bni', 'baca', 'ulas', 'orang', 'ragu', 'pakai', 'pospay', 'niat', 'pakai', 'pospay', 'bayar', 'biaya', 'bea', 'cukai', 'barang', 'beli', 'ali express']",1.0
+217,"['aplikasi', 'tidak bisa', 'curang', 'biar', 'umpat']",1.0
+218,"['masuk', 'diinstall']",1.0
+219,"['ribet', 'sandi']",1.0
+220,"['pospay', 'buka', 'layar', 'putih']",1.0
+221,"['aplikasi', 'guna', 'bumn', 'jelek', 'kirim', 'uang', 'pin', 'bener', 'gagal', 'developer', 'wajib']",1.0
+222,"['bayar', 'tagih', 'kredit', 'drama', 'unduh', 'risiko', 'uang', 'hilang']",1.0
+223,['buka'],1.0
+224,"['gagal', 'masuk', 'nik']",1.0
+225,"['masuk', 'susah', 'banget', 'salah', 'bantu', 'layan', 'gembira', 'wajah', 'konyol']",1.0
+226,"['aplikasi', 'daftar', 'bener', 'data', 'gagal', 'umpat']",1.0
+227,"['install', 'buka']",1.0
+228,['bagus'],0.0
+229,[],1.0
+230,"['pulsa', 'masuk', 'saldo', 'potong', 'parah', 'aplikasi', 'bumn']",1.0
+231,"['payah', 'baru', 'paksa', 'baru', 'masuk']",1.0
+232,"['unduh', 'aplikasi', 'bayar', 'pajak', 'saldo', 'tarik', 'baru', 'lite', 'plus', 'gagal', 'aplikasi', 'payah', 'tolong', 'bantu']",1.0
+233,"['bagus', 'banget', 'bohong']",1.0
+234,['mutu'],1.0
+235,"['aplikasi', 'bumn', 'payah']",1.0
+236,['masuk'],1.0
+237,"['bintang', 'bicara']",0.0
+238,"['ruwet', 'ruwet', 'ruwet', 'daftar', 'bayar tempat', 'pakai', 'aplikasi', 'canggih', 'lihat', 'lokasi', 'kirim', 'unduh', 'aplikasi', 'cair', 'dana', 'datang', 'kantor', 'pos', 'langsung', 'tolong', 'cair', 'langsung', 'pasu', 'rekening', 'pos', 'giro', 'biar', 'susah', 'langgan', 'terima', 'kasih']",1.0
+239,['buka'],1.0
+240,"['isi', 'data', 'putar']",1.0
+241,"['masuk', 'alas', 'kode', 'otp', 'salah', 'cabut']",1.0
+242,"['susah', 'banget', 'daftar']",1.0
+243,['buka'],1.0
+244,"['minggu', 'acc', 'tingkat', 'lite']",1.0
+245,"['lambat', 'simpel', 'ribet']",1.0
+246,"['aplikasi', 'cacat']",1.0
+247,"['buka', 'aplikasi', 'cek', 'bsu']",1.0
+248,"['bilang', 'sistem', 'pos', 'bagus', 'arti', 'orang', 'umpat', 'sistem', 'umpat', 'bangkrut', 'toko online', 'maling', 'saldo', 'beli', 'pulsa', 'saldo', 'minggu', 'kembali', 'pulsa', 'masuk', 'umpat', 'maling']",1.0
+249,"['hati', 'aplikasi', 'unduh', 'isi', 'saldo', 'pospay', 'beli', 'token', 'beli', 'pulsa', 'dan lain', 'untung', 'isi', 'saldo']",1.0
+250,"['aplikasi', 'buruk', 'guna']",1.0
+251,"['parah', 'banget', 'aplikasi', 'unggah', 'foto', 'jam', 'hebat', 'aplikasi']",1.0
+252,"['aplikasi', 'ambil', 'foto', 'susah', 'aneh', 'jaring', 'unduh', 'kali', 'susah']",1.0
+253,"['saldo', 'ribu', 'pakai']",1.0
+254,"['aplikasi', 'tidak jelas']",1.0
+255,"['unduh', 'tipu']",1.0
+256,"['tingkat', 'minggu', 'verifikasi']",1.0
+257,"['aplikasi', 'berat', 'taut', 'web', 'perangkat', 'android', 'saldo', 'endap', 'minimal', 'sisa', 'transaksi']",1.0
+258,"['kirim', 'dana', 'topup', 'masuk', 'dana', 'minggu', 'lapor', 'suruh', 'tunggu', 'hari', 'aplikasi', 'sampah', 'jari jempol', 'bawah', 'jari jempol', 'bawah', 'jari jempol', 'bawah', 'jari jempol', 'bawah']",1.0
+259,"['kasih', 'bintang', 'ikut', 'terima kasih']",0.0
+260,"['cair', 'bsu', 'kantor', 'pos', 'perintah', 'tunjuk', 'cair', 'aplikasi', 'pospay', 'parah', 'bumn']",1.0
+261,"['hp', 'iklan']",1.0
+262,"['hapus', 'data', 'daftar', 'umpat', 'terima', 'umpat']",1.0
+263,"['beli', 'pulsa']",1.0
+264,"['sms', 'cek', 'surel']",1.0
+265,[],0.0
+266,"['aplikasi', 'baik', 'unduh', 'masuk', 'aplikasi', 'muat', 'banget', 'habis', 'muat', 'layar', 'putih', 'tidak ada', 'tolong', 'baik']",1.0
+267,"['karna', 'akun', 'gagal', 'gara', 'nomor', 'identitas', 'ktp', 'anggap', 'daftar', 'sedih', 'lega', 'wajah', 'ktp', 'laku', 'umur', 'hidup', 'wajah', 'putar']",1.0
+268,"['kemarin', 'masuk', 'verifikasi', 'data', 'nik', 'masalah', 'masalah', 'aplikasi', 'gilir', 'pagi', 'cek', 'masuk', 'alas', 'sandi', 'gilir', 'daftar', 'nomor', 'pakai', 'solusi', 'biar', 'nyaman', 'pakai']",1.0
+269,"['buka', 'surel', 'password', 'bener', 'saldo']",1.0
+270,"['maaf', 'promosi', 'ramah']",1.0
+271,"['lambat', 'tolong', 'tingkat']",1.0
+272,"['aplikasi', 'tidak guna']",1.0
+273,"['aplikasi', 'kelas', 'bumn', 'lambat', 'layan', 'tingkat', 'minggu', 'profesional', 'antuk', 'wajah', 'bintang', 'aplikasi', 'pajang', 'playstore']",1.0
+274,"['pospay', 'umpat']",1.0
+275,"['mohon', 'bantu', 'uang', 'paket', 'bayar tempat', 'setor', 'minggu', 'terima', 'konfirmasi', 'instagram', 'balas', 'pusat', 'balas', 'nominal', 'uang']",1.0
+276,"['kembali', 'saldo', 'isi', 'ribu', 'aplikasi', 'kerja']",1.0
+277,"['aplikasi', 'rugi', 'isi', 'pulsa', 'masuk', 'komplain', 'via', 'surel', 'saldo', 'endap', 'sungguh', 'sungguh', 'sesal', 'kenal', 'aplikasi', 'pulsa']",1.0
+278,['install'],1.0
+279,"['mentang', 'korporasi', 'intropeksi', 'aplikasi', 'pribadi', 'inovasi', 'lambat', 'heran', 'konsumen', 'jual', 'kirim', 'saing']",1.0
+280,"['malas', 'awam']",1.0
+281,"['tingkat', 'akun', 'susah', 'kali', 'kartu', 'identitas', 'klik']",1.0
+282,"['aplikasi', 'sampah', 'gagal', 'bayar', 'pajak', 'beli', 'ali express']",1.0
+283,"['aplikasi', 'salah', 'tingkat', 'transaksi', 'beli', 'pulsa', 'langsung', 'masuk']",1.0
+284,"['aplikasi', 'umpat', 'umpat', 'topup']",1.0
+285,"['unduh', 'pakai', 'install', 'ulang', 'ganti', 'hp', 'buka', 'layar', 'putih', 'banget', 'pakai', 'pospay', 'ganti', 'ruwet', 'alamat', 'bayar tempat', 'pakai', 'pos']",1.0
+286,['aplikasi'],1.0
+287,['umpat'],1.0
+288,"['aplikasi', 'setan', 'tipu', 'makan', 'uang', 'orang', 'top', 'up', 'saldo', 'embat', 'administrator', 'top', 'up', 'bayar', 'pajak', 'import', 'uang', 'dompet', 'bayar', 'saldo', 'bilang', 'cukup', 'umpat', 'tarik', 'saldo', 'tipu']",1.0
+289,"['aplikasi', 'pasu', 'username', 'salah', 'padahal', 'daftar', 'coba', 'kasih', 'informasi', 'lupa', 'username', 'lupa', 'password', 'password', 'username', 'salah']",1.0
+290,"['aplikasi', 'sampah']",1.0
+291,"['rekomendasi', 'saldo', 'hilang', 'tinggal', 'buka', 'hati', 'hati', 'pakai', 'aplikasi']",1.0
+292,"['masuk', 'daftar', 'isi', 'username', 'salah', 'coba', 'pakai', 'surel', 'daftar', 'salah', 'coba', 'pakai', 'nama', 'lengkap', 'gilir', 'password', 'salah', 'usai', 'screenshot', 'akun', 'pospay', 'buka', 'akun', 'pospay', 'patah', 'hati']",1.0
+293,"['aplikasi', 'pakai', 'cair', 'bsu', 'lanjur', 'izin', 'cair', 'rugi', 'jam', 'buruh', 'pabrik', 'hari', 'lega', 'muka']",1.0
+294,"['aplikasi', 'sempurna', 'beli', 'pulsa', 'pulsa', 'kirim', 'komplain', 'pos', 'lempar', 'pusat', 'kapok', 'beli', 'pulsa']",1.0
+295,"['aplikasi', 'lambat', 'akses']",1.0
+296,"['layan', 'buruk', 'minggu', 'tingkat', 'lite', 'plus', 'sakit', 'pelihara', 'layan', 'nik', 'cek', 'bsu']",1.0
+297,"['fitur', 'kemenaker']",1.0
+298,"['akun', 'susah', 'kode', 'otp', 'kirim', 'baca', 'komentar', 'aplikasi']",1.0
+299,"['buka', 'aplikasi', 'abal']",1.0
+300,"['saldo', 'transaksi', 'aplikasi', 'bodoh']",1.0
+301,"['aplikasi', 'layak', 'playstore']",1.0
+302,"['saldo', 'ribu', 'isi', 'pulsa', 'ribu', 'saldo', 'sayang', 'ribu', 'hilang', 'susah', 'sulit']",1.0
+303,"['uang', 'pakai', 'cair', 'susah', 'aktivasi', 'ktp', 'parah', 'gelap', 'uang', 'aplikasi', 'rilis', 'rugi', 'guna']",1.0
+304,"['buka', 'aplikasi', 'muncul', 'layar', 'putih', 'ganti', 'hp', 'susah', 'rugi', 'jual', 'daring', 'kirim', 'barang', 'bayar tempat', 'enak', 'pakai', 'pospay', 'ganti', 'aplikasi', 'maksimal', 'mohon', 'solusi', 'aplikasi', 'aman']",1.0
+305,"['salah', 'bagus', 'versi', 'masuk', 'password', 'baca', 'username', 'password']",1.0
+306,"['jan', 'unduh', 'aplikasi', 'tipu', 'isi', 'pulsa', 'aneh', 'pin', 'bener']",1.0
+307,"['aplikasi', 'aneh', 'bsu', 'serah', 'unggah', 'foto', 'ktp', 'gagal', 'simpel', 'ribet']",1.0
+308,"['akun', 'salah']",1.0
+309,"['susah', 'bener', 'aplikasi', 'foto', 'ktp', 'putar', 'baik', 'pos', 'bayar', 'cek', 'bsu']",1.0
+310,"['aplikasi', 'sulit', 'pakai']",1.0
+311,"['aplikasi', 'pakai']",1.0
+312,"['kode', 'otp', 'masuk']",1.0
+313,"['foto', 'ktp', 'putar']",1.0
+314,['payah'],1.0
+315,"['kesal', 'saldo', 'dapat', 'guna', 'tarik']",1.0
+316,"['ruwet', 'aplikasi', 'pergi', 'sekolah']",1.0
+317,"['tolong', 'cek', 'bsu']",1.0
+318,"['baru', 'banget', 'lambat', 'siksa', 'perangkat', 'tolong', 'turunin', 'bahaya', 'satu', 'tangan', 'saran', 'tambah', 'item', 'lindung', 'sulap', 'terima kasih', 'satu', 'tangan', 'satu', 'tangan']",1.0
+319,"['sulit', 'akses']",1.0
+320,"['ganggu', 'unduh', 'bayar', 'cukai', 'kirim', 'barang', 'saldo', 'endap', 'biaya', 'administrator', 'bayar', 'pajak', 'ganda', 'kirim', 'putar', 'atas', 'lantai', 'tertawa', 'putar', 'atas', 'lantai', 'tertawa', 'putar', 'atas', 'lantai', 'tertawa', 'putar', 'atas', 'lantai', 'tertawa', 'bank']",1.0
+321,"['foto', 'ktp']",1.0
+322,"['hati', 'hati', 'install', 'aplikasi', 'uang', 'kirim', 'macet', 'komplain', 'proses', 'selesai', 'tunggu']",1.0
+323,"['layan', 'bagus', 'baik']",1.0
+324,"['kecewa', 'unduh', 'aplikasi', 'kuota', 'habis', 'kuota', 'gratis']",1.0
+325,"['suka', 'aplikasi', 'mantap', 'rekreasi', 'coba', 'tingkat', 'paket', 'bulan', 'telkomsel']",0.0
+326,"['bumn', 'aplikasi', 'kosong', 'informasi', 'biaya', 'kirim', 'bayar', 'belanja', 'ali express', 'bca', 'biaya', 'administrator', 'mobile banking', 'bca', 'masuk', 'pospay', 'potong', 'parah', 'saldo', 'endap', 'guna', 'aplikasi', 'rugi', 'guna', 'layan', 'pos', 'sampai', 'banget', 'kalah', 'in', 'jalan']",1.0
+327,"['install', 'buka']",1.0
+328,"['pospay', 'buka', 'ganti', 'password']",1.0
+329,['bagus'],1.0
+330,"['masuk', 'saldo']",1.0
+331,"['buka', 'aplikasi']",1.0
+332,"['aplikasi', 'kesal', 'otp', 'masuk', 'tanggap', 'bantu', 'tutup', 'aplikasi', 'orang', 'kesal', 'layan', 'umpat', 'umpat', 'tutup', 'aplikasi', 'umpat']",1.0
+333,"['install', 'henti']",1.0
+334,"['baru', 'buka', 'aplikasi', 'kecewa']",1.0
+335,"['aplikasi', 'bagus', 'bohong', 'tabah']",1.0
+336,"['aplikasi', 'bayar', 'akun', 'virtual', 'tolong', 'baik']",1.0
+337,"['transaksi', 'pulsa', 'gagal', 'masuk', 'pin', 'pin', 'hafal']",1.0
+338,"['jasa', 'kirim', 'pos', 'target', 'estimasi', 'kirim', 'minggu', 'minggu', 'barang', 'kirim', 'kabar']",1.0
+339,"['aplikasi', 'salah', 'beli', 'tiket', 'gagal', 'aplikasi', 'cupu', 'kecewa']",1.0
+340,"['aktivasi', 'daftar', 'akun', 'susah', 'banget']",1.0
+341,"['buka', 'lambat', 'verifikasi', 'akun', 'payah', 'suruh', 'verifikasi', 'data', 'sulit', 'hp', 'verifikasi', 'hp', 'putar', 'muat']",1.0
+342,"['aplikasi', 'bagus', 'sayang', 'saldo']",0.0
+343,"['aplikasi', 'buka', 'tampil', 'layar', 'putih']",1.0
+344,"['salah', 'masuk', 'password', 'username', 'akun', 'buka', 'saldo', 'sistem', 'matang', 'pakai', 'buka', 'sistem', 'apes']",1.0
+345,"['aplikasi', 'jelek']",1.0
+346,"['aplikasi', 'makan', 'gaji', 'layak', 'top', 'up', 'aplikasi']",1.0
+347,"['aplikasi', 'bantu']",0.0
+348,['saldo'],1.0
+349,"['daftar', 'klik', 'akun', 'tampil', 'tolong', 'bantu', 'tanggap']",1.0
+350,"['jelek', 'buang', 'coba', 'aplikasi', 'tarik', 'manual', 'salah', 'biaya', 'administrator', 'mahal', 'biaya', 'endap', 'mending', 'pakai', 'dana', 'serba', 'murah']",1.0
+351,"['buka', 'aplikasi', 'terang', 'gps', 'disable', 'gps', 'aktif']",1.0
+352,"['beli', 'pulsa']",1.0
+353,"['data', 'ktp', 'validasi', 'cek', 'disdukcapil', 'bener']",1.0
+354,['efektif'],1.0
+355,"['aplikasi', 'bodoh', 'sistem', 'lambat', 'salah']",1.0
+356,"['layan', 'tanggap', 'kirim', 'data', 'ulang', 'via', 'surel', 'fleksibel', 'saing', 'aplikasi', 'jenis', 'saing', 'rubah']",1.0
+357,"['aplikasi', 'lolos', 'foto', 'ktp', 'harap', 'baik', 'lipat', 'aplikasi', 'marah', 'wajah', 'marah', 'wajah']",1.0
+358,"['buang', 'anggar', 'baik', 'aplikasi', 'ribet', 'sederhana']",1.0
+359,['lambat'],1.0
+360,['manfaat'],0.0
+361,"['pelihara', 'akses']",1.0
+362,"['masuk', 'username', 'password', 'sesuai']",1.0
+363,"['daftar', 'gagal', 'kali', 'coba', 'hasil', 'perangkat', 'temu']",1.0
+364,"['kode', 'otp', 'nomor', 'lengkap', 'surel', 'tunggu', 'kirim', 'kode', 'solusi']",1.0
+365,[],1.0
+366,"['bintang', 'kasih', 'bintang', 'masuk', 'daftar', 'kode', 'otp', 'masuk', 'enak', 'pospay', 'ruwet', 'ruwet']",1.0
+367,"['verifikasi', 'liteplus', 'banget', 'selesai', 'selesai', 'aplikasi', 'hitung', 'jam', 'selesai', 'heran', 'orang diri', 'niat', 'jari jempol', 'bawah']",1.0
+368,"['ampun', 'tolong', 'baru', 'muat', 'tunggu', 'jamur', 'kali', 'buka']",1.0
+369,"['maksimal', 'uang', 'ambil', 'rekening', 'pos', 'giro', 'mobile', 'karena', 'masuk', 'aplikasi', 'ambil', 'uang', 'bilang', 'salah', 'guna', 'temu', 'selesai', 'hubung', 'aplikasi', 'bagus', 'bayar', 'listrik', 'langsung', 'antri', 'loket', 'pln', 'kantor', 'pos']",1.0
+370,"['kelas', 'bumn', 'aplikasi', 'becus', 'salah', 'masuk', 'gara', 'suruh', 'ganti', 'password']",1.0
+371,"['komentar', 'hapus', 'tanggung', 'terima', 'kritik', 'fungsi']",1.0
+372,['buruk'],1.0
+373,['buka'],1.0
+374,"['terima', 'kasih', 'kerja', 'sama', 'karna', 'bohong', 'anak', 'sekolah', 'masuk', 'kode', 'referal', 'bangga']",1.0
+375,"['saran', 'teman', 'guna']",1.0
+376,"['aplikasi', 'daftar']",1.0
+377,"['kirim', 'pos', 'bayar tempat', 'amburadul', 'minggu', 'rugi', 'ongkir', 'barang', 'jari jempol', 'bawah']",1.0
+378,"['kode', 'otp', 'kirim', 'kirim', 'hari', 'daftar', 'ulang', 'payah']",1.0
+379,"['masuk', 'pks', 'parah', 'aplikasi']",1.0
+380,"['aplikasi', 'guna', 'kali', 'unduh', 'ulang', 'cek', 'ktp', 'putar', 'buka', 'kamera', 'baik', 'orang', 'ulas', 'tanggap']",1.0
+381,"['saldo', 'pakai', 'potong', 'harga', 'rugi', 'untung', 'kecewa', 'berat']",1.0
+382,"['ramah', 'bintang']",1.0
+383,"['aplikasi', 'publikasi', 'mudah', 'buang', 'tenaga', 'guna', 'mohon', 'tindak', 'lihat', 'playstore', 'nonaktif', 'aplikasi', 'pospay', 'sulit', 'aplikasi', 'pospay']",1.0
+384,"['gagal', 'masuk', 'otp', 'otp', 'masuk', 'klik', 'bilang', 'otp', 'sesuai', 'daftar', 'auto', 'uninstall']",1.0
+385,"['ribet', 'bayar', 'biaya', 'endap', 'top', 'up', 'kena', 'biaya', 'kirim', 'kena', 'biaya', 'sesal']",1.0
+386,"['install', 'kecewa']",1.0
+387,"['sistem', 'bayar tempat', 'pos', 'sumpah', 'lambat', 'banget', 'barang', 'baru', 'terima', 'beli', 'sistem', 'bayar tempat', 'netap', 'baru', 'masuk', 'kantor', 'banget', 'cair']",1.0
+388,"['sungguh', 'sulit', 'ambil', 'foto', 'buffering']",1.0
+389,['pusing'],1.0
+390,"['aplikasi', 'akun', 'logout']",1.0
+391,"['kemarin', 'aplikasi', 'buka', 'butuh', 'banget']",1.0
+392,"['beli', 'pulsa', 'stok', 'sedia', 'mending', 'pakai', 'aplikasi', 'global']",1.0
+393,['kecewa'],1.0
+394,"['aplikasi', 'daftar', 'akun', 'langsung', 'blokir']",1.0
+395,"['aplikasi', 'lambat', 'banget', 'kalah', 'dompet digital', 'cepat', 'buka', 'aplikasi']",1.0
+396,"['aplikasi', 'bobot']",1.0
+397,['install'],0.0
+398,"['qris', 'gopay', 'transaksi', 'pakai', 'qris', 'saldo', 'masuk', 'pospay', 'tunggu', 'jam', 'jam', 'masuk', 'payah', 'aplikasi']",1.0
+399,"['mohon', 'baik']",1.0
+400,"['banget', 'aktivasi', 'minggu', 'aktivasi', 'aktivasi', 'kesal', 'sumpah', 'masuk', 'masuk', 'aplikasi', 'dompet', 'masuk', 'masuk', 'ketik', 'username', 'password']",1.0
+401,"['aplikasi', 'masalah', 'pilih', 'jenis', 'bantu', 'ambil', 'gambar', 'ktp', 'perangkat', 'android']",1.0
+402,"['kira', 'sosialisasi', 'paksa', 'unduh']",1.0
+403,"['foto', 'ktp', 'salah', 'syarat', 'pakai', 'pospay', 'pasang', 'playstore', 'hapus', 'aplikasi', 'playstore', 'salah']",1.0
+404,"['sulit', 'barcode', 'salah', 'kunjung', 'baik']",1.0
+405,"['masuk', 'kadang', 'kadang', 'tolong', 'maksimal', 'aplikasi', 'mudah', 'guna']",1.0
+406,"['daftar', 'pospay', 'jelek', 'kode', 'referal']",1.0
+407,"['lambat', 'foto', 'ktp', 'pakai', 'wifi']",1.0
+408,"['sesal', 'isi', 'saldo', 'transaksi', 'umpat', 'banget', 'usaha', 'negara']",1.0
+409,"['saldo', 'minimal', 'lebih', 'saldo', 'bank']",1.0
+410,"['daftar', 'umpat']",1.0
+411,"['buka', 'aplikasi']",1.0
+412,"['top', 'up', 'kemarin', 'masuk', 'cas', 'kasih', 'ikut', 'up', 'janji', 'top', 'up', 'komplain', 'kesana', 'kemari', 'puas']",1.0
+413,"['tingkat', 'susah', 'ampun', 'masuk', 'identitas']",1.0
+414,"['unduh', 'karna', 'paksa', 'unduh', 'sekolah', 'karna', 'promosi']",1.0
+415,"['buka', 'install', 'ulang', 'buka']",1.0
+416,"['susah', 'aplikasi']",1.0
+417,['sungguh'],0.0
+418,"['hapus', 'aplikasi', 'tidak jelas', 'laku', 'aplikasi', 'paksa', 'orang', 'unduh']",1.0
+419,"['cek', 'bantu', 'subsidi', 'gaji']",1.0
+420,['tipu'],1.0
+421,"['repot', 'daftar', 'masuk', 'password', 'salah']",1.0
+422,"['aplikasi', 'baca', 'foto', 'jam', 'jam', 'jempol']",1.0
+423,"['parah', 'aplikasi', 'buka', 'tunggu', 'jam', 'butuh', 'layan', 'bayar tempat', 'pos', 'langgan', 'antuk', 'wajah', 'tolong', 'baik', 'aplikasi', 'administrator']",1.0
+424,"['aplikasi', 'buruk', 'kasih', 'tarik']",1.0
+425,"['unduh', 'aplikasi', 'mending', 'tidak perlu', 'unduh', 'alam', 'aplikasi', 'jelek', 'baik', 'tarik', 'uang', 'biaya', 'baik', 'pegawai', 'profesional', 'masuk', 'sandi', 'username', 'masuk', 'tolong', 'baik', 'aplikasi', 'milik', 'jasa', 'pos', 'notabene', 'milik', 'bumn', 'jelek', 'kualitas', 'aplikasi', 'tolong', 'baik', 'sisi', 'pegawai', 'ahli', 'ganti', 'profesional']",1.0
+426,"['habis', 'baru', 'susah', 'kirim']",1.0
+427,['aplikasi'],1.0
+428,"['saldo', 'rupiah']",1.0
+429,"['aplikasi', 'faedah', 'kasih', 'ribu', 'tarik']",1.0
+430,['aplikasi'],1.0
+431,"['tingkat', 'liteplus', 'komplain', 'surel', 'halopos care', 'tanggap', 'tolong', 'baik', 'aplikasi', 'bantu', 'manfaat']",1.0
+432,"['beli', 'pulsa', 'saldo', 'potong', 'riwayat', 'hasil', 'pulsa', 'masuk', 'salah', 'beli', 'masuk', 'saldo', 'potong', 'aplikasi', 'pos', 'resmi', 'aplikasi', 'resmi', 'mending', 'kembali', 'saldo']",1.0
+433,"['spam', 'promosi', 'sekolah']",1.0
+434,"['ktp', 'masuk', 'aneh']",1.0
+435,"['aplikasi', 'bodoh', 'luncur']",1.0
+436,"['ribet', 'banget', 'daftar', 'akun', 'pasu', 'surel', 'beri tahu', 'pakai', 'sistem', 'bayar tempat', 'ribet']",1.0
+437,"['jelek', 'mending', 'pakai', 'aplikasi', 'pakai']",1.0
+438,"['aplikasi', 'transparan', 'aplikasi', 'uang', 'isi', 'saldo', 'pakai', 'saldo', 'sangkut', 'in']",1.0
+439,"['install', 'kondisi', 'hp', 'cukup', 'memori', 'sinyal']",1.0
+440,"['tolong', 'pos', 'giro', 'laku', 'kembang', 'tipe', 'hp', 'android', 'kasihan', 'hp', 'android', 'tipe', 'mohon', 'tindak', 'lanjut', 'saran', 'terima kasih']",1.0
+441,"['kualitas', 'bagus']",1.0
+442,"['aplikasi', 'salah']",1.0
+443,"['bayar', 'pakai', 'saldo', 'minimum', 'tolong', 'saldo', 'minimum', 'bayar', 'terima kasih', 'tangan', 'lipat', 'tangan', 'lipat', 'tangan', 'lipat']",1.0
+444,"['minum', 'baru', 'masuk', 'akun', 'solusi', 'tarik', 'saldo']",1.0
+445,"['unduh', 'gara', 'gara', 'sosialisasi', 'sekolah']",0.0
+446,"['aplikasi', 'tidak guna', 'umpat']",1.0
+447,"['aplikasi', 'paksa', 'paksa', 'unduh', 'aplikasi', 'sekolah', 'bintang']",1.0
+448,"['akun', 'susah', 'banget', 'kode', 'otp', 'sms', 'nomor', 'daftar', 'muncul', 'jaring']",1.0
+449,"['voucher', 'saldo', 'pakai']",1.0
+450,['paksa'],1.0
+451,"['baru', 'logout', 'otomatis', 'butuh', 'uang', 'cair', 'lupa', 'password', 'pakai', 'logout']",1.0
+452,[],1.0
+453,"['unduh', 'pos', 'giro', 'mobile', 'buka', 'aplikasi', 'muncul', 'layar', 'putih', 'butuh', 'banget']",1.0
+454,"['kecewa', 'layan', 'pos', 'akun', 'kena', 'bobol', 'uang', 'habis', 'investigasi', 'putus', 'jelek', 'banget']",1.0
+455,"['tawar', 'paksa']",1.0
+456,"['buka', 'saldo', 'pos', 'giro']",1.0
+457,"['isi', 'voucher', 'pulsa', 'tolong', 'baik']",1.0
+458,"['baru', 'masuk']",1.0
+459,"['buruk', 'maksimal', 'deposit', 'tunai', 'in', 'orang', 'setor', 'solusi']",1.0
+460,"['aplikasi', 'enak', 'tidak bisa', 'top', 'up']",1.0
+461,"['maksud', 'susah', 'buka', 'tingkat', 'buka', 'hancur', 'aplikasi', 'letih', 'muka']",1.0
+462,"['aplikasi', 'cacat', 'layan', 'super', 'cacat', 'lambat', 'banget', 'kapok', 'pakai', 'pos']",1.0
+463,"['sulit', 'paham', 'hari', 'suram']",1.0
+464,"['buka', 'habis', 'install', 'blank', 'putih', 'install', 'hp']",1.0
+465,"['kelola', 'profesional', 'bawa', 'dampak', 'langsung', 'materiil', 'moril', 'bicara', 'turun', 'kredibilitas', 'bumn', 'rugi', 'efek', 'ketidakprofesionalan', 'bumn', 'tanggung']",1.0
+466,"['suruh', 'baru', 'baru', 'tulis', 'perangkat', 'root', 'erti', 'jawab', 'dana', 'bayar tempat', 'kontrol', 'kirim', 'konflik', 'banget', 'emosi']",1.0
+467,"['kecewa', 'kecewa', 'lambat', 'input', 'pesan', 'input', 'pesan', 'butuh', 'buang', 'entry', 'data', 'beli', 'layan', 'langsung', 'coba', 'kantor', 'pos', 'beda', 'daerah', 'tugas', 'informatif', 'judes', 'tugas', 'ramah', 'pos', 'baik', 'sistem', 'aplikasi', 'layan', 'tugas', 'ramah', 'cemberut', 'bentak']",1.0
+468,"['kemarin', 'guna', 'temu', 'lapor', 'balas', 'guna', 'bener', 'pakai', 'sidik', 'jari', 'masuk']",1.0
+469,['jelek'],1.0
+470,"['baik', 'dana']",0.0
+471,"['buka', 'uang', 'tolong', 'baik', 'baru', 'aplikasi', 'keren', 'tingkat', 'aman']",1.0
+472,"['aplikasi', 'beres', 'kasih', 'rating', 'uninstall', 'aplikasi']",1.0
+473,"['akun', 'kali', 'masalah', 'masuk', 'temu', 'username', 'password']",1.0
+474,['mudah'],0.0
+475,"['fitur', 'qris', 'pakai', 'dana', 'endap', 'iming', 'bonus', 'saldo', 'ribu', 'pajang', 'konter', 'pulsa', 'masuk', 'harga']",1.0
+476,"['aplikasi', 'gagal', 'buat', 'anak', 'magang', 'rilis', 'publik', 'otak']",1.0
+477,"['pospay', 'aplikasi', 'aplikasi', 'bohong', 'unggah', 'ktp', 'bsu', 'susah', 'banget', 'tolong', 'baik', 'malu', 'nama', 'aplikasi']",1.0
+478,"['banget', 'muat', 'foto', 'ktp', 'jam', 'tolong', 'baik', 'kendala', 'foto', 'ktp']",1.0
+479,"['aplikasi', 'guna']",1.0
+480,"['tingkat', 'akun', 'regular', 'gagal', 'sosial media', 'akun', 'feedback']",1.0
+481,"['masuk', 'lupa', 'username', 'ganti']",1.0
+482,"['buka', 'kembang', 'gagal']",1.0
+483,"['tunggu', 'verifikasi', 'buka', 'aplikasi', 'akun', 'blokir', 'daftar', 'blokir', 'ngakak', 'umpat']",1.0
+484,['aplikasi'],0.0
+485,"['unduh', 'karna', 'suruh', 'pospay', 'sekolah', 'muka', 'cengir', 'senyum', 'indeks', 'indeks', 'kasih', 'muka', 'pulpen', 'alis', 'angkat', 'kasih']",1.0
+486,"['aplikasi', 'butuh', 'masyarakat', 'sistem', 'salah']",1.0
+487,"['kasih', 'bintang', 'karna', 'pulpen']",1.0
+488,"['dobol', 'daftar', 'pakai', 'ktp', 'baik', 'nik', 'umpat', 'nama']",1.0
+489,"['pos', 'umpat', 'paket', 'manifest']",1.0
+490,"['kemnaker', 'tantang', 'masyarakat', 'aplikasi', 'ampas', 'salah']",1.0
+491,"['buka', 'aplikasi', 'barcode', 'busuk']",1.0
+492,"['susah', 'banget', 'masuk', 'akun', 'pakai', 'hp', 'hp', 'rusak', 'ganti', 'coba', 'ulang', 'kali', 'masuk', 'tolong', 'nasib', 'akun']",1.0
+493,['sampah'],1.0
+494,"['baru', 'aplikasi', 'buka', 'putar', 'uang', 'situ']",1.0
+495,['aplikasi'],1.0
+496,"['logo', 'kemnaker', 'cair', 'bsu', 'arah', 'kantor', 'pos', 'dekat', 'kantor', 'pos', 'dekat', 'suruh', 'unduh', 'aplikasi', 'pospay', 'aplikasi', 'logo', 'kemnaker', 'sesuai', 'tahap', 'info']",1.0
+497,"['foto', 'kosong', 'ktp']",1.0
+498,"['pakai', 'bayar tempat', 'barang', 'terima', 'setor', 'komplain', 'minggu', 'masuk', 'deposit', 'proses', 'ampun', 'tinggal', 'setor']",1.0
+499,"['pos', 'niat', 'aplikasi', 'ribet', 'kantor', 'pusat', 'pakai', 'tolong', 'cepat', 'kerja']",1.0
+500,"['akun', 'tingkat', 'plus']",1.0
+501,[],0.0
+502,"['susah', 'isi', 'kuota', 'perintah', 'baru', 'aplikasi', 'fitur', 'fungsi']",1.0
+503,['ribet'],1.0
+504,"['klasifikasi', 'surel', 'malas', 'pakai', 'aplikasi']",1.0
+505,"['baru', 'bayar', 'belanja', 'daring']",1.0
+506,"['susah', 'ambil', 'foto', 'ktp']",1.0
+507,"['kode', 'otp']",1.0
+508,"['daftar', 'niat', 'banget', 'aplikasi']",1.0
+509,"['aplikasi', 'bumn', 'negara', 'kualitas', 'parah', 'foto', 'muat', 'selesai']",1.0
+510,"['masalah', 'jenis', 'bantu', 'muncul', 'pilih']",1.0
+511,"['buka', 'aplikasi', 'susah', 'kesal']",1.0
+512,"['tingkat', 'nik']",1.0
+513,['pin'],1.0
+514,"['saldo', 'oleh', 'ribu', 'umpat']",1.0
+515,['keren'],0.0
+516,"['buka', 'rekening', 'gagal']",1.0
+517,"['pasu', 'tanggal', 'lahir', 'terang', 'salah', 'masuk', 'tanggal', 'lahir', 'aneh', 'letak', 'salah']",1.0
+518,"['guna', 'pos', 'bayar tempat', 'pos', 'versi', 'web', 'hubung', 'alih', 'pos', 'pos', 'puas', 'reseller', 'pos', 'versi', 'aplikasi', 'unduh', 'google', 'play', 'saat', 'kirim', 'akun', 'kurir', 'versi', 'web', 'bingung', 'masuk', 'versi', 'aplikasi', 'versi', 'web', 'akun', 'versi', 'web', 'versi', 'aplikasi']",1.0
+519,"['akun', 'pospay', 'susah', 'masuk', 'aplikasi', 'masuk', 'masuk', 'salah', 'mohon', 'saran', 'terima', 'kasih']",1.0
+520,['salah'],1.0
+521,"['susah', 'masuk', 'helpdesk']",1.0
+522,"['administrator', 'dagang', 'daring', 'bayar tempat']",0.0
+523,"['aplikasi', 'tampil', 'layar', 'hapus', 'unduh', 'mohon', 'bantu']",1.0
+524,"['suruh', 'foto', 'ktp', 'kamera', 'buka']",1.0
+525,"['tolong', 'baru', 'bagus', 'post', 'giro', 'mobile']",1.0
+526,"['puas', 'karna', 'daftar', 'kode', 'otp']",1.0
+527,"['maaf', 'administrator', 'bintang', 'suruh', 'baharu', 'aplikasi', 'gilir', 'baharu', 'buka', 'sandi', 'nama', 'guna', 'solusi', 'susah', 'jual', 'daring', 'karna', 'ambil', 'saldo']",1.0
+528,"['keluar', 'uang', 'digital']",1.0
+529,"['aplikasi', 'susah', 'buka']",1.0
+530,"['salah', 'masuk']",1.0
+531,"['buka', 'pospay']",0.0
+532,"['akun', 'usaha', 'gagal', 'password', 'deteksi', 'serah', 'uninstall', 'coba', 'password', 'sesuai', 'pandu', 'huruf', 'angka', 'mohon', 'baik', 'terima kasih']",1.0
+533,"['daftar', 'jam', 'kode', 'otp']",1.0
+534,"['lupa', 'username', 'buka', 'kencang', 'menang', 'wajah', 'kencang', 'menang', 'wajah', 'bilang', 'pos', 'domisili', 'solusi', 'solusi', 'pakai', 'hp', 'data', 'rekam', 'batang', 'hp', 'senyum', 'wajah', 'tangis', 'senyum', 'wajah', 'tangis', 'senyum', 'wajah', 'tangis', 'tolong', 'tingkat']",1.0
+535,"['kirim', 'pos', 'giro', 'bri', 'transaksi', 'hasil', 'uang', 'masuk', 'lapor', 'detail', 'cek', 'riwayat', 'detail', 'konsul', 'coba']",1.0
+536,"['buka', 'ngeblank']",1.0
+537,[],0.0
+538,"['kasih', 'turun', 'buka', 'aplikasi', 'susah']",1.0
+539,"['akun', 'tidak bisa']",1.0
+540,"['topup', 'isi', 'saldo', 'masuk', 'kode', 'depan']",1.0
+541,"['kode', 'referal']",1.0
+542,"['mohon', 'baik', 'aplikasi', 'masalah', 'mohon', 'ditindaklanjuti', 'keluh', 'guna']",1.0
+543,"['buka', 'aplikasi', 'lambat', 'buka']",1.0
+544,"['mohon', 'tulis', 'spesifikasi', 'minimal', 'aplikasi', 'buka', 'aplikasi', 'vivo', 'terima kasih']",1.0
+545,"['aplikasi', 'pospay', 'coba', 'menginstall', 'menginstall', 'pospay']",1.0
+546,"['pakai', 'aplikasi', 'unduh']",0.0
+547,"['tingkat', 'liteplus']",1.0
+548,"['habis', 'baharu', 'buka', 'layar', 'putih', 'tolong', 'baik', 'butuh', 'banget', 'aplikasi']",1.0
+549,"['layan', 'rugi', 'kirim', 'bank', 'minimal', 'aplikasi', 'biaya', 'kirim', 'minimal', 'administrator', 'sahabat']",1.0
+550,"['aplikasi', 'muat', 'menu', 'tarik', 'saldo', 'mohon', 'banyak', 'merchant', 'tambah', 'fitur', 'tarik', 'saldo', 'rekening', 'bank', 'repot', 'kantor', 'pos']",1.0
+551,"['laku', 'usaha', 'daring', 'kirim', 'kota', 'gantung', 'sistem', 'bayar tempat', 'jadi', 'barang', 'uang', 'kirim', 'barang', 'langgan', 'jelas', 'tele', 'tele', 'kecewa', 'kelas', 'bumn', 'tolong', 'baik', 'barang', 'uang', 'masuk', 'situ', 'kasih', 'terang', 'resi', 'uang', 'masuk']",1.0
+552,"['tarik', 'tunai', 'tidak bisa', 'kirim', 'pos', 'giro', 'mobile', 'tanggap']",1.0
+553,"['daftar', 'aplikasi', 'salah']",1.0
+554,"['masuk', 'padahal', 'guna', 'nama', 'password']",1.0
+555,"['ganti', 'status', 'lite', 'regular', 'plus', 'susah', 'coba', 'kali', 'kali', 'sakit', 'pelihara', 'layan', 'nik', 'tolong', 'baik', 'aplikasi', 'layak']",1.0
+556,"['aplikasi', 'tanda', 'cek']",1.0
+557,"['baru', 'pospay', 'masuk', 'tulis', 'terang', 'pospay', 'deteksi', 'perangkat', 'kondisi', 'aneh', 'ponsel', 'diutak', 'atik', 'solusi', 'kantor', 'pos', 'transaksi', 'buka', 'pospay']",1.0
+558,"['transaksi', 'bayar', 'bank', 'blank']",1.0
+559,"['rekening', 'giro', 'server', 'hubung']",1.0
+560,"['aplikasi', 'aneh', 'planet', 'pasu', 'nomor', 'hp', 'bilang', 'daftar', 'pasu', 'surel', 'surel', 'daftar', 'username', 'bilang', 'perangkat', 'daftar', 'parah', 'buka', 'pospay', 'ganti', 'hp', 'nomor', 'surel']",1.0
+561,"['segi', 'kirim', 'barang', 'ganti', 'nomor', 'hp', 'minggu', 'akun', 'ganti', 'nomor', 'hp', 'alhasil', 'transaksi', 'pospay', 'tolong', 'sulit', 'nasabah']",1.0
+562,"['buka', 'pop', 'up', 'tulis', 'pos', 'giro', 'henti', 'tunggu', 'capek', 'banget']",1.0
+563,"['pospay', 'buka']",1.0
+564,"['kecewa', 'beli', 'pulsa', 'data', 'transaksi', 'hasil', 'saldo', 'kurang', 'pulsa', 'data', 'masuk']",1.0
+565,"['masuk', 'aplikasi', 'koneksi', 'bagus', 'cek', 'bank']",1.0
+566,"['tingkat', 'pospay', 'lite', 'lite', 'plus', 'data', 'isi', 'sesuai', 'perintah', 'scan', 'ktp', 'kamera', 'aplikasi', 'pospay', 'fungsi', 'ulang', 'ulang', 'tampil', 'layar', 'scan', 'gelap', 'instruksi', 'hubung', 'call', 'center', 'pos', 'seluler', 'pulsa', 'potong', 'tolong', 'bantu', 'kirim', 'pospay', 'rekening', 'bank']",1.0
+567,"['masuk', 'salah', 'mohon', 'maaf', 'perangkat', 'verifikasi', 'tolong', 'kencang', 'menang', 'wajah', 'kencang', 'menang', 'wajah']",1.0
+568,"['install', 'buka']",1.0
+569,['malaikat'],0.0
+570,"['bayar', 'pbb', 'transaksi', 'gagal', 'data', 'inquiry', 'salah', 'kemarin', 'bayar', 'lancar', 'solusi', 'tolong']",1.0
+571,"['proses', 'tingkat', 'tunggu', 'hari', 'selesai', 'proses', 'verifikasi']",1.0
+572,"['install', 'aplikasi', 'buka']",1.0
+573,"['beli', 'materai', 'kantor', 'pos', 'kantor', 'pos', 'suruh', 'unduh', 'aplikasi', 'pospay', 'lanjut', 'transaksi', 'beli', 'materai', 'sangkut', 'paut', 'beli', 'materai', 'kode', 'referal']",1.0
+574,"['lambat', 'cair', 'uang', 'kirim', 'cair', 'uang', 'mohon', 'tingkat']",1.0
+575,"['isi', 'identitas', 'ktp', 'coba', 'unggah', 'foto', 'ktp']",1.0
+576,"['pakai', 'samsung', 'lancar', 'ganti', 'hp', 'oppo', 'versi', 'android', 'buka', 'blank', 'putih', 'ganti', 'hp', 'registrasi']",1.0
+577,[],0.0
+578,"['pospay', 'tingkat', 'akun', 'liteplus', 'minggu', 'coba']",1.0
+579,"['sistem', 'bayar tempat', 'konflik', 'barang', 'terima', 'langgan', 'aplikasi', 'ubah', 'status', 'kirim', 'otomatis', 'uang', 'masuk', 'rekening', 'pos', 'dagang', 'butuh', 'putar', 'uang', 'pakai', 'tahan']",1.0
+580,"['masuk', 'daftar', 'susah', 'mohon', 'solusi']",1.0
+581,"['aplikasi', 'pos', 'giro', 'biaya']",0.0
+582,"['tingkat', 'kualitas', 'layan', 'kejar', 'rating']",1.0
+583,['bagus'],0.0
+584,"['masuk', 'aplikasi', 'tanggal', 'lahir', 'salah', 'cek', 'aktif', 'ktp']",1.0
+585,"['kadang', 'buka', 'aplikasi']",1.0
+586,"['ribet', 'akses', 'aplikasi', 'masuk', 'masuk', 'username', 'password', 'aplikasi', 'wajib', 'nyala', 'gps', 'gps', 'off', 'aplikasi']",1.0
+587,"['tingkat', 'liteplus', 'aktif', 'pintar', 'masuk', 'kurang', 'baik']",1.0
+588,"['untung', 'unduh']",1.0
+589,"['unduh', 'isi', 'saldo', 'saldo', 'pulsa', 'pulsa']",1.0
+590,['aplikasi'],1.0
+591,['lumayan'],0.0
+592,"['unduh', 'daftar', 'akun', 'daftar', 'daftar', 'buka', 'password', 'salah']",1.0
+593,"['palak', 'parkir', 'tertib', 'enak', 'cair', 'duit', 'kantor', 'pos', 'gratis', 'bayar', 'parkir']",1.0
+594,"['minggu', 'pos', 'giro', 'masuk', 'muncul', 'status', 'masuk', 'skema', 'tarik', 'uang', 'butuh', 'banget', 'modal']",1.0
+595,"['baca', 'ktp', 'bsu']",1.0
+596,"['lupa', 'guna', 'bantu']",0.0
+597,['bagus'],0.0
+598,"['topup', 'saldo', 'biaya', 'administrator', 'guna', 'pribadi', 'administrator', 'fasilitas', 'print', 'struk', 'biaya', 'transaksi', 'pospay']",1.0
+599,"['pakai', 'emulator', 'install', 'buka', 'mohon', 'cerah']",1.0
+600,"['biasa', 'aplikasi', 'terima', 'bayar', 'paket', 'bayar tempat', 'kantor', 'pos', 'bayar', 'ongkir', 'manfaat', 'aplikasi', 'uang', 'digital']",0.0
+601,"['parah', 'pakai', 'transaksi', 'salah', 'wajah', 'dana', 'masuk', 'rekening', 'bank', 'tidak bisa', 'realtime', 'kadang', 'tunggu', 'langgan', 'bayar', 'pakai', 'rekening', 'tunggu', 'masuk', 'pospay', 'kirim', 'rekening', 'bank', 'tarik', 'tunai', 'atm', 'tunggu', 'masuk', 'rekening', 'bank', 'susah', 'orang', 'frustasi']",1.0
+602,"['isi', 'pulsa', 'via', 'mandiri']",1.0
+603,[],0.0
+604,"['isi', 'pulsa', 'transaksi', 'transaksi', 'susah', 'lambat', 'tangan', 'lipat', 'warna', 'kulit', 'terang']",1.0
+605,"['buka', 'aplikasi', 'minggu']",1.0
+606,"['tingkat', 'aktivasi', 'kali', 'heran']",1.0
+607,"['mohon', 'bantu', 'kode', 'otp', 'cek', 'surel', 'sms', 'terima', 'kasih']",1.0
+608,['tingkat'],0.0
+609,"['lupa', 'nama', 'guna', 'sandi']",0.0
+610,"['aplikasi', 'bagus', 'banget', 'senyum', 'wajah', 'senyum', 'wajah']",0.0
+611,"['mending', 'pos', 'giro', 'mobile', 'kendala']",1.0
+612,"['solusi', 'isi', 'pulsa', 'pakai', 'aplikasi', 'pulsa', 'masuk', 'beri tahu', 'aplikasi', 'hasil', 'mohon', 'informasi']",1.0
+613,"['akun', 'masuk', 'tinggal', 'menit']",1.0
+614,"['paksa', 'sekolah', 'acung', 'jempol']",1.0
+615,"['adu', 'fitur', 'fingerprint', 'hilang', 'baru', 'baru']",1.0
+616,"['tolong', 'fasilitas', 'fingerprint', 'masuk', 'aplikasi', 'hilang', 'aplikasi', 'baru', 'ribet', 'mudah']",1.0
+617,"['uang', 'masuk', 'paket', 'tanggal', 'kemarin', 'terima', 'ceroboh', 'kurir', 'tunggu', 'tolong', 'baik', 'biar', 'puas', 'guna', 'pos', 'giro', 'mobile']",1.0
+618,"['aplikasi', 'lambat', 'hapus', 'cache', 'masuk']",1.0
+619,['lumayan'],0.0
+620,['akun'],1.0
+621,"['tingkat', 'premium', 'tanggap', 'saldo', 'pakai', 'november']",1.0
+622,"['kode', 'referal', 'akun']",0.0
+623,"['cek', 'bsu', 'susah']",1.0
+624,"['susah', 'foto', 'ktp', 'tolong', 'baik', 'sistem']",1.0
+625,"['aplikasi', 'kirim', 'uang', 'negeri']",0.0
+626,"['aplikasi', 'buka']",1.0
+627,"['aplikasi', 'berat', 'tolong', 'optimasi']",1.0
+628,"['susah', 'masuk', 'kemenaker']",1.0
+629,"['sayang', 'print', 'transaksi', 'mohon', 'baru']",1.0
+630,"['buat', 'akun', 'selesai', 'klik', 'akses', 'tingkat']",1.0
+631,"['bagus', 'batas', 'sedia', 'jasa', 'cair', 'saldo', 'ambil', 'repot', 'transaksi', 'saldo', 'endap']",1.0
+632,[],0.0
+633,['bagus'],0.0
+634,['buka'],1.0
+635,"['daftar', 'pospay', 'lupa', 'username', 'pakai', 'layan', 'lupa', 'sandi', 'username', 'lupa', 'layan', 'lupa', 'sandi', 'bantu', 'ingat', 'username', 'aplikasi', 'pospay', 'pakai', 'tangan', 'buat', 'pelihara', 'aplikasi', 'pospay', 'baik', 'kurang']",1.0
+636,"['baru', 'salah', 'buka', 'muat']",1.0
+637,"['pakai', 'masuk', 'bayar tempat', 'antar', 'pos', 'surel', 'password', 'salah', 'bener', 'kota', 'minggu', 'barang', 'terima', 'kendala', 'biar', 'telepon', 'terima', 'kirim', 'info']",1.0
+638,['bangkit'],0.0
+639,"['aplikasi', 'bagus', 'password', 'masuk', 'simpan', 'otomatis', 'paksa', 'pakai', 'sidik', 'jari', 'masuk', 'masuk', 'aplikasi']",0.0
+640,"['lumayan', 'bagus']",0.0
+641,"['kantor', 'pos', 'langsung', 'aplikasi', 'data', 'lewat', 'rt', 'rw', 'isi', 'dan lain', 'isi', 'bintang', 'aplikasi', 'lancar', 'terima kasih', 'ramah', 'kantor', 'pos', 'negara']",0.0
+642,"['ganti', 'hp']",0.0
+643,"['pospay', 'masuk', 'isi', 'username', 'password', 'coba', 'ganti', 'password', 'kali', 'tulis', 'password', 'sesuai', 'mohon', 'muka', 'solusi']",1.0
+644,"['wajah', 'senyum', 'hati']",0.0
+645,"['kerja', 'bagus']",0.0
+646,"['harap', 'hasil', 'transaksi', 'bayar', 'cetak', 'printer', 'bluetooth']",0.0
+647,[],0.0
+648,['coba'],0.0
+649,"['puas', 'mudah', 'transaksi']",0.0
+650,"['scan', 'bayar', 'qris', 'langsung', 'kamera', 'scan', 'gallery', 'baca', 'aplikasi', 'baru', 'android', 'vivo']",0.0
+651,"['print', 'struk', 'transaksi', 'printer', 'bluetooth']",0.0
+652,['bagus'],0.0
+653,"['sms', 'kode', 'otp']",1.0
+654,[],0.0
+655,"['ktp', 'ajar', 'kelas', 'butuh', 'aplikasi', 'kencang', 'menang', 'wajah']",0.0
+656,"['riwayat', 'lengkap']",1.0
+657,"['lupa', 'sandi', 'masuk', 'nama', 'kandung', 'salah']",1.0
+658,"['xiaomi', 'redmi', 'catat', 'pakai', 'aplikasi', 'terang', 'perangkat', 'versi', 'kembang']",1.0
+659,"['terima kasih', 'tanggap', 'simpan', 'rekening', 'tolong', 'kerja sama', 'bank', 'bri', 'isi', 'saldo', 'karna', 'banyak', 'pakai', 'bri', 'sulit', 'dukung']",0.0
+660,"['administrator', 'masuk', 'tulis', 'status', 'masuk', 'analisis', 'tolong', 'bantu', 'administrator', 'ambil', 'uang', 'pos', 'giro', 'hambat', 'tunggu', 'cepat', 'konfirmasi', 'terima', 'kasih']",1.0
+661,"['tambah', 'bayar', 'shopeepay', 'administrator']",0.0
+662,"['bagus', 'kesal', 'aplikasi', 'web', 'antar', 'pos', 'kesal', 'uang', 'masuk', 'kirim', 'pos', 'kota', 'domisili', 'nomor', 'resi', 'nomor', 'bayar tempat', 'nomor', 'nama', 'terima', 'alamat', 'terima', 'nominal', 'kirim', 'tanggal', 'status', 'uang', 'cair', 'proses']",0.0
+663,['jempol'],0.0
+664,['sulit'],1.0
+665,"['rawat', 'selesai']",0.0
+666,"['coba', 'sesuai', 'ekspektasi', 'bintang']",0.0
+667,"['aplikasi', 'posgiro', 'mobile', 'milik', 'fitur', 'print', 'mohon', 'konfirmasi']",1.0
+668,"['bantu', 'terima', 'kasih', 'pospay']",0.0
+669,"['top', 'up', 'saldo', 'pakai', 'bank', 'terang', 'nomor', 'validasi', 'copy', 'paste', 'nomor rekening']",1.0
+670,"['unduh', 'kemarin', 'ganggu', 'transaksi', 'normal', 'sayang', 'bayar', 'top', 'up', 'bank', 'cimb', 'niaga', 'bca', 'mandiri', 'bni', 'bintang', 'terima kasih']",0.0
+671,['tuhan'],0.0
+672,"['mantap', 'buruk', 'gateway', 'muat']",1.0
+673,"['halus', 'aplikasi', 'obat', 'rindu', 'pos', 'baju', 'oren']",0.0
+674,['lumayan'],0.0
+675,"['akun', 'masuk', 'perangkat', 'solusi', 'administrator']",1.0
+676,"['saran', 'atm', 'pospay', 'kerja', 'jaring', 'atm', 'taut']",0.0
+677,['bagus'],0.0
+678,"['print', 'hasil', 'bayar', 'pdam', 'biar', 'jadi', 'bisnis', 'rencana', 'cetak', 'bluetooth', 'aplikasi', 'bayar']",0.0
+679,"['riset', 'ulang', 'akun', 'pospay']",0.0
+680,['simbol'],0.0
+681,"['aplikasi', 'bagus', 'tarik', 'saldo', 'bank', 'bca', 'tambah', 'bank', 'lipat', 'tangan']",0.0
+682,"['aplikasi', 'pos', 'giro', 'mobile', 'mudah', 'transaksi', 'bagus', 'terima', 'kasih', 'pos']",0.0
+683,"['hp', 'reset', 'aplikasi', 'pos', 'pos', 'cari', 'cari', 'play', 'store', 'temu', 'tolong', 'jelas']",1.0
+684,"['coba', 'tidak bisa', 'otp', 'tolong', 'developer', 'perhati', 'perihal', 'runtime', 'salah']",1.0
+685,"['belanja', 'daring', 'mudah', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+686,"['aplikasi', 'bantu', 'butuh', 'tolong', 'bagi']",0.0
+687,['gendut'],0.0
+688,"['terima', 'kasih']",0.0
+689,['bagus'],0.0
+690,"['bantu', 'kendala', 'kendala', 'jaring', 'seluler']",0.0
+691,"['jempol', 'warna', 'kulit', 'cerah', 'jempol', 'warna', 'kulit', 'cerah', 'jempol', 'warna', 'kulit', 'cerah']",0.0
+692,['keren'],0.0
+693,"['bantu', 'urus', 'uang']",0.0
+694,"['aplikasi', 'baik']",0.0
+695,[],0.0
+696,"['bagus', 'banget']",0.0
+697,"['keren', 'unduh', 'aplikasi', 'langsung', 'meme', 'unlimited', 'saldo', 'wajah', 'wajah', 'dingin', 'wajah', 'diam', 'wajah', 'lega', 'wajah', 'merah', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'diam', 'wajah', 'teriak', 'takut', 'wajah', 'hati', 'merah', 'simbol', 'mulut', 'wajah', 'dingin', 'wajah', 'seri', 'senyum', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'jari', 'hati', 'wajah', 'dingin', 'wajah', 'mual']",0.0
+698,"['manfaat', 'pandemi', 'rumah', 'beli', 'token', 'pulsa']",0.0
+699,['keren'],0.0
+700,"['kembang', 'jempol']",0.0
+701,"['tangan', 'ok', 'warna', 'kulit', 'cerah', 'tangan', 'ok', 'warna', 'kulit', 'cerah', 'tangan', 'ok', 'warna', 'kulit', 'cerah']",0.0
+702,"['bagus', 'mantap', 'aplikasi']",0.0
+703,['bantu'],0.0
+704,"['mudah', 'transaksi']",0.0
+705,"['mantap', 'kalah', 'canggih', 'tetangga', 'belah', 'murah', 'biaya', 'administrator']",0.0
+706,['mantap'],0.0
+707,"['mantap', 'aplikasi', 'pos', 'giro', 'mobile']",0.0
+708,"['aplikasi', 'bantu', 'mudah', 'transaksi', 'bagus', 'tabung', 'pasti', 'anti', 'riba']",0.0
+709,"['aplikasi', 'bantu', 'transaksi', 'bulan', 'tagih', 'listrik', 'pdam', 'pulsa', 'data', 'internet', 'bpjs', 'cicil', 'biaya', 'dan lain', 'maju', 'pos']",0.0
+710,"['suruh', 'baru', 'aplikasi']",1.0
+711,"['mudah', 'aman', 'pospay', 'keren']",0.0
+712,"['mantap', 'mudah', 'bantu']",0.0
+713,['bagus'],0.0
+714,['bantu'],0.0
+715,"['pos', 'giro', 'buka', 'kencang', 'menang', 'wajah']",1.0
+716,[],0.0
+717,"['paten', 'acung', 'jempol']",0.0
+718,[],0.0
+719,"['keren', 'aplikasi', 'juta', 'transaksi', 'bayar', 'bayar', 'bayar']",0.0
+720,[],0.0
+721,"['mantap', 'lengkap', 'pasti', 'bantu', 'transaksi', 'bayar', 'bayar', 'sukses', 'pospay', 'jempol']",0.0
+722,[],0.0
+723,['mantap'],0.0
+724,"['aplikasi', 'bagus', 'cek', 'bsu', 'masalah', 'foto', 'ktp', 'pilih', 'kemnaker', 'depan', 'ikut', 'up']",0.0
+725,[],0.0
+726,['tingkat'],0.0
+727,"['mantap', 'banget', 'aplikasi', 'fitur', 'lengkap', 'transaksi', 'bayar', 'listrik', 'pdam', 'kirim', 'uang', 'dan lain', 'rumah', 'transaksi', 'aman', 'khawatir']",0.0
+728,"['aplikasi', 'bantu', 'bayar', 'biaya', 'administrator', 'bulan', 'mantap', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+729,[],0.0
+730,"['aplikasi', 'bantu', 'terima', 'kasih', 'pospay']",0.0
+731,[],0.0
+732,"['aplikasi', 'mudah', 'terima', 'kasih', 'pos', 'depan', 'sukses']",0.0
+733,"['mantap', 'bayar', 'listrik']",0.0
+734,"['aplikasi', 'bagus', 'bantu', 'bayar', 'tagih', 'bulan', 'bayar tempat', 'mantap']",0.0
+735,"['manfaat', 'mantap', 'transaksi', 'ajak', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+736,['keren'],0.0
+737,[],0.0
+738,"['mudah', 'mudah']",0.0
+739,"['aplikasi', 'bantu', 'bayar', 'rumah', 'tarik', 'tunai', 'loket', 'kantor', 'pos']",0.0
+740,['mantap'],0.0
+741,"['aplikasi', 'bagus']",0.0
+742,"['pos', 'aplikasi', 'canggih', 'butuh', 'genggam', 'beli', 'bayar', 'pulsa', 'bpjs', 'pajak', 'tiket', 'dan lain', 'akun', 'rekening', 'giro', 'akses', 'luas', 'banget', 'belanja', 'daring', 'coba', 'pos', 'exis', 'maju', 'juara', 'juara', 'juara', 'juara']",0.0
+743,['bantu'],0.0
+744,"['aplikasi', 'bagus']",0.0
+745,"['suka', 'pos', 'giro', 'mobile']",0.0
+746,"['lumayan', 'usaha']",0.0
+747,"['guna', 'beli', 'pulsa', 'administrator', 'murah', 'bayar', 'kirim', 'bank', 'lancar', 'resi', 'daring', 'awet', 'simpan', 'hilang', 'top', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+748,"['pospay', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+749,"['masuk', 'pin', 'masuk', 'sandi', 'ambil', 'sandi', 'sandi', 'masuk']",1.0
+750,"['aplikasi', 'bayar', 'lengkap', 'mudah', 'percaya', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+751,"['bayar', 'bayar', 'pospay', 'pospay', 'keren', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+752,"['keren', 'transaksi', 'mudah', 'akurat']",0.0
+753,"['bagus', 'sayang', 'hp']",0.0
+754,['keren'],0.0
+755,"['aplikasi', 'bener', 'keren', 'simpel', 'ribet', 'repot', 'fitur', 'suka', 'bantu', 'banget', 'deret', 'angka', 'tinggal', 'klik', 'masuk', 'keranjang', 'bayar', 'tagih', 'beres', 'tinggal', 'klik', 'nama', 'isi', 'mau', 'kirim', 'catat', 'riwayat', 'tinggal', 'klik', 'nama', 'kirimin', 'lupa', 'agen', 'pospay', 'jual', 'pulsa', 'dan lain', 'cinta', 'penuh', 'pospay']",0.0
+756,"['mudah', 'pos', 'giro', 'mobile', 'bayar', 'beli', 'pulsa', 'token', 'kemarin', 'bank', 'rumah', 'dan lain', 'pakai', 'ribet', 'jempol']",0.0
+757,"['bantu', 'bayar', 'tagih', 'isi', 'pulsa', 'sukses', 'pos']",0.0
+758,"['gaji', 'plus', 'transportasi', 'uang']",0.0
+759,['mantap'],0.0
+760,['bagus'],0.0
+761,"['bagus', 'aplikasi', 'fitur', 'akomodasi', 'pdam', 'bayar', 'pajak', 'pbb', 'stnk']",0.0
+762,"['bantu', 'mudah', 'transaksi', 'repot', 'rumah', 'layan', 'genggam']",0.0
+763,['aplikasi'],0.0
+764,"['bagus', 'banget']",0.0
+765,"['layan', 'kantor', 'pos', 'puas']",0.0
+766,"['jempol', 'jempol', 'jempol']",0.0
+767,"['aplikasi', 'mantap', 'simpan', 'uang', 'elektronik', 'bayar', 'tagih', 'bulan']",0.0
+768,"['pos', 'bayar', 'banget']",0.0
+769,['mudah'],0.0
+770,"['mudah', 'unduh', 'aplikasi', 'sarana', 'mudah', 'transaksi', 'mudah', 'setor', 'loket', 'kantor pos', 'mudah', 'tarik', 'loket', 'kantor pos', 'atm', 'bca', 'outlet', 'indomaret', 'ayo', 'pakai']",0.0
+771,['coba'],0.0
+772,"['aplikasi', 'bagus', 'mudah', 'transaksi', 'simpan', 'tarik']",0.0
+773,"['unduh', 'muat', 'buka']",1.0
+774,['bagus'],0.0
+775,['mantap'],0.0
+776,"['media', 'bayar', 'bayar tempat', 'aplikasi', 'manfaat', 'hidup', 'hari', 'milik', 'fitur', 'lengkap', 'kirim', 'bank', 'bayar', 'tagih', 'beli', 'pulsa', 'token', 'listrik', 'ungu', 'hati']",0.0
+777,"['istimewa', 'mudah', 'urus', 'bayar', 'bayar']",0.0
+778,"['pospay', 'terima kasih', 'pospay', 'jaya', 'up']",0.0
+779,"['aplikasi', 'bayar', 'mudah']",0.0
+780,['bantu'],0.0
+781,[],0.0
+782,['mantap'],0.0
+783,['manfaat'],0.0
+784,[],0.0
+785,"['aplikasi', 'bantu', 'tingkat', 'fitur', 'layan', 'stabil', 'jam']",0.0
+786,"['mantap', 'jaya', 'token', 'lancar', 'jaya', 'transaksi', 'saran', 'potong', 'kirim', 'bank', 'panjang', 'perlu', 'dadak', 'atas', 'pospay', 'jempol', 'jempol', 'jempol', 'jempol', 'halopos care', 'mantap', 'cepat', 'tanggap', 'keren', 'habis', 'sabar', 'banget', 'layan']",0.0
+787,[],0.0
+788,"['mantap', 'keren']",0.0
+789,"['isi', 'saldo', 'shopee', 'bayar', 'dana', 'gratis', 'isi', 'saldo', 'saldo', 'administrator', 'kantor', 'pos']",0.0
+790,"['puji', 'pospay']",0.0
+791,['mantap'],0.0
+792,"['hidup', 'mudah', 'senang']",0.0
+793,"['aplikasi', 'uang', 'mantap', 'fitur', 'mudah', 'paham', 'habis', 'kirim', 'nomor', 'rekening', 'langsung', 'masuk', 'daftar', 'kirim', 'tidak perlu', 'ribet', 'pasu', 'nomor', 'rekening', 'suka', 'banget', 'pospay', 'jari jempol', 'up']",0.0
+794,"['pospay', 'transaksi', 'wajah', 'senyum', 'tangan', 'buka', 'wajah', 'senyum', 'tangan', 'buka', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati']",0.0
+795,"['aplikasi', 'bantu', 'proses', 'transaksi', 'uang', 'bayar', 'tagih', 'bulan']",0.0
+796,['keren'],0.0
+797,"['terima kasih', 'bantu']",0.0
+798,"['aplikasi', 'bagus']",0.0
+799,"['aplikasi', 'bagus', 'mudah', 'transaksi', 'lengkap', 'maju', 'pos']",0.0
+800,"['suruh', 'kelas', 'unduh', 'unduh', 'nilai']",1.0
+801,"['terima', 'kasih', 'bantu', 'cair', 'bsu']",0.0
+802,['mantap'],0.0
+803,['bagus'],0.0
+804,"['mantap', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+805,"['uninstal', 'tidak bisa', 'buka', 'blank', 'putih', 'solusi']",1.0
+806,['mantap'],0.0
+807,"['terima', 'kasih']",0.0
+808,[],0.0
+809,"['aplikasi', 'bagus']",0.0
+810,"['maju', 'juara']",0.0
+811,"['aplikasi', 'batu', 'kasih', 'tugas', 'loket', 'pos', 'aplikasi', 'bayar', 'senang', 'bayar', 'pln', 'pdam', 'bayar', 'cicil', 'mobil', 'kirim', 'bank', 'kantor', 'pos', 'pokok', 'aplikasi', 'kasih', 'batu', 'banget']",0.0
+812,"['mantap', 'aplikasi', 'mudah', 'bisnis', 'daring', 'mudah', 'bayar', 'tagih', 'listrik', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+813,"['pos', 'bayar', 'mantap']",0.0
+814,"['aplikasi', 'guna', 'mudah', 'kelola', 'uang']",0.0
+815,"['aplikasi', 'keren', 'bantu']",0.0
+816,"['aplikasi', 'bagus', 'banget', 'nama', 'pospay', 'aplikasi', 'uang', 'baik']",0.0
+817,"['pospay', 'mudah', 'transaksi']",0.0
+818,"['aplikasi', 'bagus', 'jempol']",0.0
+819,"['pakai', 'pospay', 'bayar', 'bulan', 'setor', 'mudah', 'jempol']",0.0
+820,"['manfaat', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+821,"['cari', 'biar', 'bantu', 'teman', 'cair', 'bsu']",0.0
+822,['mantap'],0.0
+823,['lumayan'],0.0
+824,"['bayar', 'lengkap']",0.0
+825,"['aplikasi', 'bagus', 'ribet', 'transaksi', 'pakai', 'pospay', 'terima kasih', 'pospay', 'mudah', 'bantu', 'lipat', 'tangan', 'lipat', 'tangan', 'lipat', 'tangan']",0.0
+826,"['mohon', 'info', 'kontak', 'personal', 'hubung']",0.0
+827,['bagus'],0.0
+828,"['aplikasi', 'keren', 'super', 'lengkap']",0.0
+829,"['bantu', 'mudah', 'transaksi', 'bayar']",0.0
+830,"['pospay', 'mudah', 'bayar', 'pln', 'pdam', 'dan lain', 'kirim', 'bank', 'pospay', 'lancar', 'sukses']",0.0
+831,"['mantap', 'aplikasi']",0.0
+832,"['tolong', 'salah']",1.0
+833,"['aplikasi', 'pos', 'giro', 'mobile', 'bantu', 'mantap']",0.0
+834,"['batas', 'tarik', 'tunai', 'indomaret', 'tingkat', 'jempol']",0.0
+835,"['mobile banking', 'pos', 'transaksi', 'bayar', 'administrator', 'murah', 'kirim', 'pospay', 'kirim', 'bank', 'tunai', 'in', 'tunai', 'kantor', 'pos', 'dekat', 'administrator', 'bulan', 'bank', 'hemat', 'praktis', 'pokok', 'jual', 'bayar tempat', 'pos', 'wajib', 'riwayat', 'transaksi', 'gampang', 'cek']",0.0
+836,"['aplikasi', 'bagus']",0.0
+837,['sesap'],0.0
+838,"['mantap', 'serba']",0.0
+839,['mantap'],0.0
+840,"['bantu', 'aplikasi', 'mudah', 'transaksi', 'bayar', 'bayar', 'rekening', 'tagih', 'rumah', 'terima', 'kasih']",0.0
+841,"['top', 'pospay', 'bayar', 'mudah', 'murah', 'cepat']",0.0
+842,"['fitur', 'bagus', 'lengkap', 'mudah', 'transaksi', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up', 'aplikasi']",0.0
+843,['mantap'],0.0
+844,"['transaksi', 'mudah', 'pos', 'bayar', 'andal', 'jual', 'pulsa', 'jual', 'token', 'bayar', 'bayar', 'klik', 'beres', 'terima', 'kasih']",0.0
+845,['keren'],0.0
+846,['coba'],0.0
+847,[],0.0
+848,"['bagus', 'aplikasi']",0.0
+849,[],0.0
+850,['bagus'],0.0
+851,"['endorse', 'sekolah', 'tabah', 'unduh', 'tabah']",0.0
+852,"['keren', 'pos', 'maju', 'arah', 'digital']",0.0
+853,['mantap'],0.0
+854,"['bagus', 'banget', 'aplikasi']",0.0
+855,"['mudah', 'urus', 'pospay', 'mantap', 'jempol', 'jempol', 'jempol']",0.0
+856,"['mantap', 'aplikasi', 'lancar', 'jaya']",0.0
+857,"['jaya', 'pos', 'kuasa', 'kirim', 'surat', 'paket', 'merdeka']",0.0
+858,['bantu'],0.0
+859,['jempol'],0.0
+860,"['aplikasi', 'bantu', 'tagih', 'bulan', 'pulsa', 'pokok', 'baik']",0.0
+861,"['pospay', 'bantu', 'mudah', 'bayar', 'tagih', 'hari']",0.0
+862,[],0.0
+863,['mantap'],0.0
+864,"['aplikasi', 'bagus', 'banget', 'fitur', 'daftar', 'gampang', 'ruwet', 'bantu', 'mudah', 'transaksi', 'hari']",0.0
+865,"['transaksi', 'pos', 'depan']",0.0
+866,"['aplikasi', 'bagus', 'mudah', 'bayar']",0.0
+867,"['aplikasi', 'lengkap', 'mudah', 'transaksi', 'senyum', 'wajah', 'hati']",0.0
+868,"['bantu', 'aktivitas', 'bayar', 'qris', 'peduli', 'lindung', 'tanam', 'terima kasih', 'pospay']",0.0
+869,"['aplikasi', 'bagus', 'bayar', 'mana', 'inovasi', 'keren', 'maju', 'pospay']",0.0
+870,['bayar'],0.0
+871,"['urus', 'bayar', 'mudah']",0.0
+872,"['mantap', 'acung', 'jempol']",0.0
+873,"['kerja', 'bagus']",0.0
+874,"['mudah', 'bantu', 'kerja']",0.0
+875,['mantap'],0.0
+876,['pospay'],0.0
+877,['coba'],0.0
+878,['keren'],0.0
+879,[],0.0
+880,"['pos', 'keren', 'tampil', 'pospay', 'segar', 'pakai', 'pospay', 'transaksi', 'lancar', 'kirim', 'bank', 'tarik', 'tunai', 'maju', 'pos']",0.0
+881,"['sukses', 'pos']",0.0
+882,['bagus'],0.0
+883,['pospay'],0.0
+884,"['kirim', 'cepat', 'mudah', 'aplikasi']",0.0
+885,['keren'],0.0
+886,"['pospay', 'jempol', 'jempol']",0.0
+887,[],0.0
+888,"['baru', 'masuk', 'muncul', 'tulis', 'buruk', 'gateway']",1.0
+889,"['mudah', 'lengkap', 'pospay', 'paham', 'butuh']",0.0
+890,"['puas', 'bayar', 'jenis', 'transaksi', 'bayar', 'via', 'daring']",0.0
+891,[],0.0
+892,['bagus'],0.0
+893,"['aplikasi', 'kaget', 'inspirasi', 'darat', 'laut', 'ngakak', 'hamil', 'lebih', 'aplikasi', 'preman', 'daring', 'palak']",1.0
+894,['mantap'],0.0
+895,[],0.0
+896,['bantu'],0.0
+897,"['pakai', 'pospay', 'transaksi', 'bayar', 'pdam', 'simpel', 'cepat']",0.0
+898,"['puas', 'mudah', 'bayar']",0.0
+899,[],0.0
+900,"['bayar', 'kirim', 'bank', 'mana', 'terima kasih', 'pos']",0.0
+901,"['bangga', 'aplikasi']",0.0
+902,['keren'],0.0
+903,['mantap'],0.0
+904,"['mohon', 'bantu', 'baik', 'baru', 'nik']",0.0
+905,"['pos', 'giro', 'mobile', 'gampang', 'transaksi', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+906,"['aplikasi', 'pospay', 'mudah', 'transaksi', 'bayar', 'kirim', 'bank']",0.0
+907,"['masuk', 'aplikasi']",0.0
+908,"['cepat', 'mudah']",0.0
+909,[],0.0
+910,"['aplikasi', 'mudah', 'transaksi', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+911,"['terima', 'kasih']",0.0
+912,"['baru', 'fasilitas', 'bayar']",1.0
+913,['mantap'],0.0
+914,"['transaksi', 'nyaman', 'aman']",0.0
+915,"['posgiro', 'mobile']",0.0
+916,"['bintang', 'bintang', 'proses', 'lancar', 'isi', 'saldo', 'kurang', 'screenshot', 'mudah', 'depan', 'screenshot', 'lebih', 'bagus', 'bintang', 'bintang', 'bintang', 'bintang', 'bintang']",0.0
+917,"['mantap', 'tampil']",0.0
+918,"['aplikasi', 'mudah', 'bantu', 'bayar', 'wajib', 'bulan', 'listrik', 'isi', 'token', 'isi', 'pulsa', 'kirim', 'bank', 'layan', 'mudah', 'aman', 'riba', 'koran', 'pos', 'pusing', 'atm', 'tinggal', 'pospay', 'tarik', 'tunai', 'pos', 'bca', 'indomaret', 'maju', 'pos']",0.0
+919,"['pakai', 'pospay', 'ribet', 'transaksi', 'tinggal', 'top', 'up', 'bayar', 'pospay', 'antri', 'kantor', 'pos', 'kirim', 'bank']",0.0
+920,"['aplikasi', 'pospay', 'mantap', 'jempol', 'mudah', 'transaksi', 'uang', 'akses', 'butuh', 'jempol', 'jempol']",0.0
+921,"['aplikasi', 'aplikasi', 'bayar', 'beli', 'lengkap', 'kirim', 'uang', 'kirim', 'wesel', 'transaksi', 'qris', 'bawa', 'uang', 'scan', 'merchant', 'logo', 'qris', 'jempol']",0.0
+922,['sesap'],0.0
+923,"['bagus', 'sukses']",0.0
+924,"['pospay', 'tabung', 'potong', 'administrator']",0.0
+925,"['semangat', 'kantor']",0.0
+926,"['mudah', 'aman', 'bayar', 'tagih', 'beres', 'jempol']",0.0
+927,"['bagus', 'keren']",0.0
+928,[],0.0
+929,"['mantap', 'pospay', 'ribet', 'bayar', 'tinggal', 'pakai', 'pospay', 'bayar', 'listrik', 'biaya', 'administrator', 'murah']",0.0
+930,"['top', 'pokok']",0.0
+931,['mantap'],0.0
+932,"['terima kasih', 'pos', 'bagus', 'puas', 'layan', 'mantap']",0.0
+933,"['aplikasi', 'bagus']",0.0
+934,"['aplikasi', 'bagus', 'keren', 'jempol', 'jempol']",0.0
+935,"['suka', 'banget', 'aplikasi', 'pospay', 'sukses', 'pos']",0.0
+936,"['bantu', 'transaksi', 'layan', 'bayar', 'pos', 'giro', 'mobile']",0.0
+937,"['pakai', 'pospay', 'mudah', 'bayar', 'bayar', 'kirim', 'baik', 'bantu', 'hati', 'terima kasih']",0.0
+938,"['aplikasi', 'bagus', 'lancar', 'kadang', 'baik', 'kali', 'bagus']",0.0
+939,"['pospay', 'bantu', 'transaksi', 'digital', 'milenial']",0.0
+940,['keren'],0.0
+941,[],0.0
+942,"['top', 'pokok', 'suka', 'banget', 'aplikasi', 'suka', 'suka']",0.0
+943,['mantap'],0.0
+944,"['mudah', 'bayar', 'bayar tempat', 'terima', 'kirim', 'bank', 'oren', 'hati']",0.0
+945,"['keren', 'banyak', 'layan']",0.0
+946,"['pasang', 'mudah']",0.0
+947,[],0.0
+948,[],0.0
+949,"['bagus', 'puas']",0.0
+950,[],0.0
+951,['bagus'],0.0
+952,"['bantu', 'transaksi']",0.0
+953,['mantap'],0.0
+954,"['lumayan', 'enak']",0.0
+955,"['mudah', 'layan', 'mantap']",0.0
+956,['bagus'],0.0
+957,"['pospay', 'bagus', 'kirim', 'bank', 'bayar', 'pos', 'milik', 'orang']",0.0
+958,"['aman', 'cepat', 'mudah']",0.0
+959,['sederhana'],0.0
+960,"['keren', 'banget', 'fungsi', 'bayar', 'kirim', 'bayar tempat', 'terima kasih', 'pos', 'maju']",0.0
+961,"['masuk', 'hp', 'salah']",1.0
+962,"['transaksi', 'cepat']",0.0
+963,"['terima', 'kasih', 'pos', 'mudah', 'transaksi', 'bisnis', 'butuh', 'rumah', 'tangga', 'pos', 'giro', 'mobil', 'mudah', 'hemat', 'contoh', 'bayar', 'listrik', 'transaksi', 'kirim', 'mudah', 'transaksi', 'pakai', 'pos', 'bayar tempat']",0.0
+964,"['bantu', 'serba', 'digital']",0.0
+965,"['mantap', 'aplikasi']",0.0
+966,"['batu', 'beli', 'pulsa', 'pakai', 'administrator', 'senyum', 'wajah']",0.0
+967,['mantap'],0.0
+968,[],1.0
+969,['jempol'],0.0
+970,['puas'],0.0
+971,['mantap'],0.0
+972,['mantap'],0.0
+973,"['pos', 'juara']",0.0
+974,['bagus'],0.0
+975,['mantap'],0.0
+976,"['mantap', 'mantap']",0.0
+977,"['andal', 'aplikasi', 'bayar', 'tagih', 'beli', 'sama', 'kali', 'input', 'pin', 'susah', 'ulang']",0.0
+978,"['pospay', 'jempol', 'jempol']",0.0
+979,"['mudah', 'manfaat']",0.0
+980,"['bagus', 'asli']",0.0
+981,"['aplikasi', 'mudah', 'bayar', 'top', 'up', 'mudah', 'cocok', 'kendala', 'bank', 'tinggal', 'kantor', 'pos', 'top']",0.0
+982,"['aplikasi', 'aman', 'password', 'catat', 'salah', 'masuk', 'transaksi', 'kirim', 'kirim', 'bank', 'mana', 'mantap']",0.0
+983,"['malam', 'minggu', 'hujan', 'deras', 'lampu', 'padam', 'lihat', 'jendela', 'padam', 'rumah', 'cek', 'pulsa', 'listrik', 'habis', 'beli', 'pulsa', 'hujan', 'deras', 'untung', 'aplikasi', 'pospay', 'beli', 'pulsa', 'listrik', 'aplikasi', 'pospay', 'hitung', 'detik', 'selesai', 'lampu', 'terang', 'terima', 'kasih', 'pospay', 'tolong', 'saat', 'butuh', 'layan', 'lengkap', 'bayar', 'jari', 'selesai', 'pospay', 'juara', 'rugi', 'install', 'pospay']",0.0
+984,['bagus'],0.0
+985,['bagus'],0.0
+986,"['aplikasi', 'bantu', 'transaksi', 'mudah', 'ribet', 'aman', 'rekomendasi', 'pokok', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+987,"['aplikasi', 'bantu', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+988,['mantap'],0.0
+989,"['mantap', 'aplikasi', 'bayar tempat', 'mudah', 'toko online', 'kantor', 'pos', 'genggam']",0.0
+990,['bantu'],0.0
+991,['bagus'],0.0
+992,['bagus'],0.0
+993,"['aplikasi', 'mudah', 'bayar', 'aman', 'nomor', 'ribet']",0.0
+994,"['mantap', 'aplikasi']",0.0
+995,"['aplikasi', 'pospay', 'bayar', 'mudah', 'salah', 'satu', 'beli', 'pulsa', 'listrik', 'bantu', 'transaksi']",0.0
+996,"['aplikasi', 'cakep']",0.0
+997,"['terima', 'kasih', 'soleh']",0.0
+998,['mantap'],0.0
+999,"['jempol', 'jempol', 'jempol']",0.0
+1000,"['transaksi', 'lancar', 'mudah']",0.0
+1001,['mantap'],0.0
+1002,"['mudah', 'fleksibel', 'aman']",0.0
+1003,"['mudah', 'lengkap']",0.0
+1004,"['mantap', 'bantu', 'banget']",0.0
+1005,"['mantap', 'tingkat', 'jaring', 'internet', 'muat', 'cepat']",0.0
+1006,"['tas', 'aplikasi']",0.0
+1007,"['silah', 'pakai', 'pospay', 'mudah', 'bayar', 'bayar']",0.0
+1008,['keren'],0.0
+1009,"['pospay', 'jaya']",0.0
+1010,['bagus'],0.0
+1011,"['puas', 'baik', 'baik']",0.0
+1012,['hebat'],0.0
+1013,"['bagus', 'aplikasi', 'lanjut']",0.0
+1014,[],0.0
+1015,"['mudah', 'cepat', 'praktis']",0.0
+1016,[],0.0
+1017,['jempol'],0.0
+1018,['mantap'],0.0
+1019,"['genggam', 'solusi', 'pospay', 'keren', 'acung', 'jempol']",0.0
+1020,"['maju', 'pospay', 'bayar', 'belanja', 'daring', 'top', 'up', 'bayar', 'up', 'shopee', 'bayar', 'telepon', 'hp', 'pdam', 'qris', 'gabung', 'unduh', 'aplikasi', 'pospay', 'pos']",0.0
+1021,"['aplikasi', 'bantu']",0.0
+1022,"['aplikasi', 'baik']",0.0
+1023,"['cepat', 'akurat']",0.0
+1024,"['transaksi', 'lengkap']",0.0
+1025,['bantu'],0.0
+1026,"['tingkat', 'aplikasi']",0.0
+1027,[],0.0
+1028,"['mudah', 'transaksi', 'wajah', 'senyum']",0.0
+1029,"['kirim', 'rekening', 'bank', 'rumah', 'langsung', 'mantap', 'lengkap', 'fitur', 'jari jempol', 'up']",0.0
+1030,"['aplikasi', 'bagus', 'bayar', 'tagih', 'kirim', 'dan lain']",0.0
+1031,"['aplikasi', 'bantu', 'lancar', 'usaha', 'toko', 'daring', 'terima kasih']",0.0
+1032,"['sungguh', 'bagus', 'bantu', 'terima kasih']",0.0
+1033,"['aman', 'percaya', 'acung', 'jempol']",0.0
+1034,"['transaksi', 'rumah', 'mudah', 'coba', 'bukti', 'unduh', 'aplikasi', 'dapat', 'mudah']",0.0
+1035,"['pospay', 'erti', 'senyum', 'wajah', 'hati']",0.0
+1036,"['bantu', 'bisnis', 'daring']",0.0
+1037,['umpat'],1.0
+1038,['lanjut'],0.0
+1039,['mantap'],0.0
+1040,"['mantap', 'aplikasi', 'bayar', 'tagih', 'cicil', 'listrik', 'pdam', 'mudah', 'bisnis', 'daring', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+1041,"['tolong', 'baik', 'salah', 'akun', 'poin', 'cair', 'gara', 'aplikasi', 'pospay', 'salah', 'terima kasih']",1.0
+1042,['bagus'],0.0
+1043,[],0.0
+1044,['bagus'],0.0
+1045,"['aplikasi', 'hebat']",0.0
+1046,"['bayar', 'marketplace', 'mudah']",0.0
+1047,"['hp', 'layar', 'putih', 'buka', 'aplikasi', 'hp', 'tipe', 'jaman dulu', 'hp', 'layar', 'putih', 'tidak bisa', 'buka', 'unduh', 'pakai', 'hp', 'bagus']",0.0
+1048,"['mantap', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+1049,"['bantu', 'transaksi', 'rutin', 'bulan', 'bayar', 'tagih', 'pos', 'giro', 'mobile']",0.0
+1050,[],0.0
+1051,['cocok'],0.0
+1052,"['unduh', 'akibat', 'suruh', 'sekolah', 'indeks', 'up']",1.0
+1053,"['pemberitahuan', 'uang', 'masuk', 'lapor', 'surel']",0.0
+1054,['keren'],0.0
+1055,['mantap'],0.0
+1056,['banget'],1.0
+1057,"['guna', 'beli', 'bayar']",0.0
+1058,"['jenis', 'layan', 'makan', 'lengkap', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati', 'wajah', 'senyum', 'hati']",0.0
+1059,['mantap'],0.0
+1060,"['unduh', 'saldo', 'bagus', 'banget', 'isi', 'paket', 'data', 'isi', 'ulang', 'paket', 'listrik', 'pdam', 'dan lain', 'terima', 'kasih', 'pospay']",0.0
+1061,"['bagus', 'ayo', 'install', 'gabung']",0.0
+1062,"['aplikasi', 'pos', 'bayar', 'cepat', 'mudah', 'aman']",0.0
+1063,"['aplikasi', 'pospay', 'mudah', 'transaksi']",0.0
+1064,['mudah'],0.0
+1065,"['menu', 'cetak', 'transaksi', 'printer', 'bluetooth']",0.0
+1066,"['jempol', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+1067,"['pospay', 'bantu', 'transaksi', 'pospay', 'hot']",0.0
+1068,"['install', 'buka']",1.0
+1069,['coba'],0.0
+1070,['mula'],0.0
+1071,"['transaksi', 'pospay', 'mudah', 'ayo', 'unduh', 'aplikasi']",0.0
+1072,['banget'],0.0
+1073,"['mantap', 'transaksi', 'aplikasi']",0.0
+1074,[],0.0
+1075,"['mudah', 'bayar', 'bulan', 'bayar', 'listrik', 'beli', 'pulsa']",0.0
+1076,"['pergi', 'mampir', 'karaoke', 'ok', 'tangan', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+1077,"['aplikasi', 'guna']",0.0
+1078,['pos indonesia'],0.0
+1079,"['mantap', 'acung', 'jempol']",0.0
+1080,['istimewa'],0.0
+1081,['top'],0.0
+1082,"['layan', 'bagus', 'mudah']",0.0
+1083,"['pakai', 'atas', 'terima kasih', 'kantor', 'pos', 'sedia', 'aplikasi', 'hebat']",0.0
+1084,['mantap'],0.0
+1085,"['aplikasi', 'bagus', 'coba', 'percaya']",0.0
+1086,"['aplikasi', 'bantu']",0.0
+1087,"['pospay', 'manfaat', 'mudah', 'transaksi', 'bayar', 'bayar tempat', 'kirim', 'paket', 'kirim', 'kantor', 'pos']",0.0
+1088,"['buka', 'rekening', 'mudah', 'ribet', 'ktp', 'administrator', 'bulan', 'setor', 'kantor pos', 'pokok']",0.0
+1089,"['aplikasi', 'bagus']",0.0
+1090,['biang'],0.0
+1091,"['aplikasi', 'mantap']",0.0
+1092,['mudah'],0.0
+1093,"['aplikasi', 'bantu', 'suka', 'bayar', 'instan', 'ribet', 'pakai', 'pospay']",0.0
+1094,"['aplikasi', 'mudah', 'transaksi', 'terima kasih', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+1095,['bagus'],0.0
+1096,['bagus'],0.0
+1097,['masuk'],0.0
+1098,"['aplikasi', 'lengkap', 'kirim', 'bank', 'mantap', 'jempol']",0.0
+1099,"['layan', 'puas']",0.0
+1100,"['mantap', 'guru']",0.0
+1101,"['bantu', 'transaksi', 'bayar', 'satu', 'tangan']",0.0
+1102,[],0.0
+1103,"['pakai', 'deposit', 'simpel']",0.0
+1104,"['bagus', 'daring']",0.0
+1105,"['pos', 'mantap', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+1106,"['buka', 'tolong', 'baik', 'selesai']",1.0
+1107,"['jempol', 'jempol', 'jempol']",0.0
+1108,"['transaksi', 'genggam', 'mantap', 'terima kasih', 'pos']",0.0
+1109,['bagus'],0.0
+1110,"['bagus', 'atm']",0.0
+1111,['unduh'],1.0
+1112,['pospay'],0.0
+1113,"['pos', 'coba', 'daftar', 'beri tahu', 'ktp', 'daftar']",1.0
+1114,"['suka', 'pospay', 'gampang', 'mudah']",0.0
+1115,"['keren', 'bayar', 'banget']",0.0
+1116,"['bantu', 'depan', 'mudah', 'bantu', 'mudah', 'orang']",0.0
+1117,[],0.0
+1118,"['jari jempol', 'up', 'bagus', 'kerja', 'kembang', 'kreatif', 'nyaman', 'puas', 'juara']",0.0
+1119,[],0.0
+1120,"['aplikasi', 'bagus']",0.0
+1121,['aplikasi'],0.0
+1122,"['pospay', 'bayar', 'bayar', 'mudah', 'ayo', 'pakai', 'pospay']",0.0
+1123,"['aplikasi', 'pospay', 'bagus', 'transaksi', 'mudah']",0.0
+1124,[],0.0
+1125,"['aplikasi', 'mantap']",0.0
+1126,"['bagus', 'aplikasi', 'bantu', 'transaksi', 'uang', 'bagus', 'kerja', 'pos']",0.0
+1127,"['bintang', 'keren', 'banget', 'pukul', 'hati', 'ungu']",0.0
+1128,"['baru', 'aplikasi', 'pospay', 'lacak', 'kirim', 'keren']",0.0
+1129,"['pospay', 'fitur', 'lengkap', 'mudah', 'transaksi']",0.0
+1130,"['mantap', 'bener', 'jempol']",0.0
+1131,"['mantap', 'pospay', 'bantu', 'pos', 'juara']",0.0
+1132,"['mudah', 'bayar', 'tagih', 'pln', 'telepon', 'pdam', 'dan lain', 'bank']",0.0
+1133,"['mudah', 'aplikasi', 'bantu', 'perlu', 'transaksi', 'uang', 'cepat', 'akurat', 'hemat']",0.0
+1134,"['bantu', 'transaksi']",0.0
+1135,"['mudah', 'aman']",0.0
+1136,"['paksa', 'unduh']",1.0
+1137,['mantap'],0.0
+1138,['lancar'],0.0
+1139,['keren'],0.0
+1140,"['bagus', 'banget', 'ukm']",0.0
+1141,"['aplikasi', 'pospay', 'bantu', 'mudah', 'wajah', 'senyum', 'senyum']",0.0
+1142,['aplikasi'],0.0
+1143,[],0.0
+1144,"['aplikasi', 'mantap', 'mudah', 'bayar', 'aplikasi']",0.0
+1145,"['terima', 'kasih', 'kembang', 'baik']",0.0
+1146,"['selamat', 'siang', 'cair', 'bsu', 'ketenagakerjaan', 'administrator', 'kantor', 'pos', 'pusat', 'cabang', 'cabang', 'terima', 'kasih']",0.0
+1147,"['transaksi', 'wajah', 'seri', 'lancar', 'senyum']",0.0
+1148,"['jempol', 'jempol', 'jempol']",0.0
+1149,"['aplikasi', 'bagus', 'saldo', 'kasih', 'opsi', 'bri', 'biar']",0.0
+1150,"['mantap', 'sambung', 'semua', 'layan', 'pos', 'jasa', 'uang', 'kurir']",0.0
+1151,['mantap'],0.0
+1152,"['keren', 'banget', 'bintang', 'landa', 'bintang', 'landa']",0.0
+1153,['mantap'],0.0
+1154,['mantap'],0.0
+1155,['pospay'],0.0
+1156,"['apakah', 'aplikasi', 'bayar tempat', 'ritel', 'ganggu', 'buka', 'rawat']",1.0
+1157,"['fitur', 'lengkap', 'guna', 'friendly', 'terima', 'kasih', 'pos']",0.0
+1158,[],0.0
+1159,"['aplikasi', 'bantu']",0.0
+1160,"['aplikasi', 'lengkap', 'beli', 'pulsa', 'belanja', 'daring', 'tahan', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+1161,"['aplikasi', 'halus']",0.0
+1162,[],0.0
+1163,"['bantu', 'tambah', 'bayar', 'main', 'tambah', 'beli', 'pulsa']",0.0
+1164,[],0.0
+1165,"['pokok', 'pos', 'giro', 'mobile', 'baik', 'transaksi', 'mudah', 'jari jempol', 'up', 'senyum', 'wajah', 'kacamata']",0.0
+1166,['bagus'],0.0
+1167,"['aplikasi', 'bagus']",0.0
+1168,['mantap'],0.0
+1169,"['pos', 'juara']",0.0
+1170,"['transaksi', 'mudah', 'pakai', 'pospay', 'bintang', 'pukul', 'bintang', 'pukul', 'bintang', 'pukul']",0.0
+1171,"['pos', 'giro', 'mobile', 'tabung', 'riba']",0.0
+1172,"['keren', 'aplikasi', 'bayar', 'tagih', 'kirim', 'bulan', 'topup', 'dana', 'dan lain', 'bantu', 'banget', 'aplikasi', 'jari jempol', 'up', 'jari jempol', 'up', 'jari jempol', 'up']",0.0
+1173,"['aplikasi', 'bagus']",0.0
+1174,['mantap'],0.0
+1175,[],0.0
+1176,['mantap'],0.0
+1177,"['aplikasi', 'butuh', 'pandemi']",0.0
+1178,"['bagus', 'guna']",0.0
+1179,"['transaksi', 'ribet', 'pakai', 'pospay', 'kirim', 'bayar', 'listrik', 'bayar', 'pam', 'tarik', 'tunai']",0.0
+1180,"['terima', 'kasih', 'pos', 'bayar', 'bayar', 'tagih', 'aplikasi', 'posgiro', 'mobile', 'muat', 'buka', 'menu', 'lambat', 'lebih', 'bagus', 'mantap', 'jempol', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+1181,"['mantap', 'bayar', 'tagih', 'tagih']",0.0
+1182,"['muas', 'transaksi']",0.0
+1183,[],0.0
+1184,[],0.0
+1185,"['mudah', 'bayar', 'rumah', 'tingkat', 'layan']",0.0
+1186,[],0.0
+1187,[],0.0
+1188,"['pospay', 'mantap', 'jual', 'atas', 'garis', 'mantap']",0.0
+1189,"['pakai', 'pospay', 'transaksi', 'bayar', 'klik', 'jari']",0.0
+1190,['susah'],1.0
+1191,['acara'],0.0
+1192,[],0.0
+1193,['bagus'],0.0
+1194,['bagus'],0.0
+1195,"['aplikasi', 'manfaat', 'guna', 'simpan']",0.0
+1196,"['aplikasi', 'bayar', 'mantap', 'habis']",0.0
+1197,"['mantap', 'mantap']",0.0
+1198,"['transaksi', 'mudah', 'murah']",0.0
+1199,"['tampil', 'aplikasi', 'tarik', 'mudah', 'transaksi']",0.0
+1200,"['aplikasi', 'bantu']",0.0
+1201,"['mantap', 'mudah']",0.0
+1202,"['mudah', 'transaksi', 'pospay']",0.0
+1203,"['aplikasi', 'manfaat', 'keren', 'jaya', 'pos']",0.0
+1204,['bantu'],0.0
+1205,"['aplikasi', 'batu', 'mudah', 'bayar', 'tagih', 'kirim', 'dan lain', 'mana', 'genggam', 'aplikasi', 'juta', 'manfaat', 'takut', 'lambat', 'bayar', 'tagih']",0.0
+1206,['pos'],0.0
+1207,"['mudah', 'transaksi']",0.0
+1208,['cepat'],0.0
+1209,['keren'],0.0
+1210,"['pos', 'bayar', 'keren', 'bantu', 'ringan', 'transaksi', 'mudah', 'hp', 'jaya', 'pos']",0.0
+1211,['mantap'],0.0
+1212,['keren'],0.0
+1213,['bantu'],0.0
+1214,"['transaksi', 'mudah']",0.0
+1215,"['mudah', 'keren']",0.0
+1216,"['aplikasi', 'pospay', 'daring', 'toko', 'akun', 'bayar tempat', 'alat', 'transaksi', 'uang', 'mudah']",0.0
+1217,"['mantap', 'mudah', 'transaksi', 'toko online']",0.0
+1218,"['kirim', 'atm', 'pakai', 'ribet']",0.0
+1219,['keren'],0.0
+1220,"['bayar', 'rumah']",0.0
+1221,"['lupa', 'username', 'pos']",0.0
+1222,"['menu', 'variatif', 'aplikasi', 'simpel', 'produk', 'milik', 'anak', 'keren']",0.0
+1223,['mantap'],0.0
+1224,"['aplikasi', 'bagus', 'mudah', 'transaksi', 'jempol']",0.0
+1225,['dingin'],0.0
+1226,"['solusi', 'uang', 'tabung', 'bayar', 'kirim', 'bank', 'mana', 'mantap', 'keren']",0.0
+1227,"['transaksi', 'genggam']",0.0
+1228,"['aplikasi', 'bagus', 'mohon', 'ganggu', 'cepat', 'atas', 'langgan', 'tunggu']",0.0
+1229,[],0.0
+1230,['bagus'],0.0
+1231,"['bantu', 'pokok', 'jempol', 'jempol']",0.0
+1232,"['solusi', 'transaksi', 'uang', 'lengkap']",0.0
+1233,"['bagus', 'aplikasi']",0.0
+1234,['bantu'],0.0
+1235,"['bagus', 'bantu', 'giat', 'uang', 'tingkat', 'inovasi', 'layan', 'maju']",0.0
+1236,"['bantu', 'aplikasi', 'isi', 'token', 'listrik', 'kirim', 'antri', 'atm', 'cepat', 'masuk', 'bank', 'tuju']",0.0
+1237,"['mantap', 'bantu', 'transaksi', 'cepat', 'mudah', 'tingkat']",0.0
+1238,['mantap'],0.0
+1239,[],0.0
+1240,"['mantap', 'bantu']",0.0
+1241,['mantap'],0.0
+1242,['bagus'],0.0
+1243,"['mantap', 'aplikasi', 'layan', 'bayar', 'tagih', 'bulan', 'kirim', 'uang', 'ambil', 'uang', 'belanja', 'daring']",0.0
+1244,"['hemat', 'potong', 'minimal']",0.0
+1245,[],0.0
+1246,"['mantap', 'depan']",0.0
+1247,"['gokil', 'mantap', 'aplikasi', 'keren', 'pokok', 'cinta', 'gera', 'cinta', 'gera']",0.0
+1248,['lancar'],0.0
+1249,"['aplikasi', 'mantap']",0.0
+1250,['mantap'],0.0
+1251,['mudah'],0.0
+1252,"['tangan', 'tangan', 'tangan', 'tangan', 'tangan', 'tangan']",0.0
+1253,"['tingkat', 'pos']",0.0
+1254,['keren'],0.0
+1255,"['aplikasi', 'mantap', 'mudah', 'genggam', 'bayar', 'ribet']",0.0
+1256,"['mantap', 'transaksi', 'aplikasi']",0.0
+1257,['baru'],0.0
+1258,"['mudah', 'transaksi', 'administrator', 'murah', 'banding', 'tarik', 'tunai', 'atm', 'bca', 'kartu', 'pokok', 'super', 'hebat', 'aplikasi']",0.0
+1259,"['pospay', 'mantap', 'jempol', 'jempol']",0.0
+1260,['ringan'],0.0
+1261,"['mudah', 'transaksi']",0.0
+1262,"['aplikasi', 'bagus']",0.0
+1263,"['manfaat', 'depan', 'pos']",0.0
+1264,['mantap'],0.0
+1265,"['main', 'sungguh', 'senang']",0.0
+1266,['mantap'],0.0
+1267,['mantap'],0.0
+1268,['aplikasi'],0.0
+1269,[],0.0
+1270,['mantap'],0.0
+1271,[],0.0
+1272,"['keren', 'tampil']",0.0
+1273,"['sederhana', 'manfaat', 'terima kasih', 'pos indonesia']",0.0
+1274,"['pos', 'giro', 'mobile', 'mantap']",0.0
+1275,"['manfaat', 'guna', 'transaksi', 'pospay', 'ragu', 'transaksi', 'pospay', 'sukses', 'jaya', 'pos']",0.0
+1276,"['bagus', 'aplikasi', 'fitur', 'bayar', 'lengkap', 'tambah', 'tambah', 'lacak', 'kirim']",0.0
+1277,"['aplikasi', 'bantu', 'transaksi', 'uang', 'aman', 'nyaman']",0.0
+1278,['mudah'],0.0
+1279,['keren'],0.0
+1280,"['mantap', 'aplikasi', 'cair', 'bsu', 'mudah', 'gampang', 'cek', 'terima kasih', 'pos', 'maju']",0.0
+1281,"['tugas', 'polisi', 'pospay', 'bagus']",0.0
+1282,['mantap'],0.0
+1283,['mantap'],0.0
+1284,"['mantap', 'transaksi']",0.0
+1285,['mental'],1.0
+1286,"['terima kasih', 'pos', 'aplikasi', 'bantu', 'transaksi', 'bayar', 'tagih']",0.0
+1287,['bagus'],0.0
+1288,"['bagus', 'akses', 'mudah']",0.0
+1289,['mantap'],0.0
+1290,['bagus'],0.0
+1291,"['bagus', 'bagus']",0.0
+1292,['bantu'],0.0
+1293,[],0.0
+1294,['bantu'],0.0
+1295,"['kirim', 'uang', 'bayar', 'tagih', 'mudah', 'aman']",0.0
+1296,['bagus'],0.0
+1297,['komentar'],0.0
+1298,['mantap'],0.0
+1299,"['aplikasi', 'keren', 'habis', 'kode', 'kirim', 'bank', 'bayar', 'simpel', 'banget']",0.0
+1300,['mantap'],0.0
+1301,"['suka', 'fitur', 'pospay', 'jujur', 'memang', 'lambat', 'banding', 'tarik', 'tunai', 'pos', 'tarik', 'rupiah', 'narik', 'saldo', 'bener', 'kasih', 'kantor', 'pos', 'cabang', 'asli', 'cek', 'tarif', 'aman', 'tolong', 'kembang']",0.0
+1302,"['pospay', 'manfaat', 'butuh', 'bayar', 'aplikasi', 'tingkat', 'terima', 'kasih', 'kantor', 'pos', 'jempol', 'warna', 'kulit', 'cerah', 'jempol', 'warna', 'kulit', 'cerah']",0.0
+1303,[],0.0
+1304,['maju'],0.0
+1305,['bagus'],0.0
+1306,['keren'],0.0
+1307,"['bagus', 'bantu', 'bayar', 'tagih', 'dan lain']",0.0
+1308,"['keren', 'banget', 'aplikasi', 'jempol']",0.0
+1309,['mantap'],0.0
+1310,"['enak', 'transaksi', 'genggam', 'pergi', 'rumah', 'terima', 'kantor', 'pos', 'lancar', 'ribet']",0.0
+1311,['bagus'],0.0
+1312,"['aplikasi', 'bantu', 'mudah', 'terima kasih', 'pos']",0.0
+1313,"['mudah', 'bayar', 'bayar', 'tagih', 'isi', 'pulsa', 'listrik', 'telepon']",0.0
+1314,"['aplikasi', 'ragam', 'manfaat', 'unduh', 'dapat', 'manfaat']",0.0
+1315,"['aplikasi', 'bagus', 'kantor', 'pos', 'genggam', 'aman', 'nyaman']",0.0
+1316,"['fitur', 'kirim', 'bank', 'pos', 'mantap', 'jempol', 'jempol']",0.0
+1317,['akun'],0.0
+1318,"['titip', 'salam', 'pegawai', 'pos']",0.0
+1319,['keren'],0.0
+1320,"['mudah', 'kirim', 'bank']",0.0
+1321,['bagus'],0.0
+1322,[],0.0
+1323,"['aplikasi', 'bantu', 'kirim', 'beda', 'bank', 'potong', 'mantap']",0.0
+1324,"['terima kasih', 'karna', 'aplikasi', 'bantu', 'sayang', 'hp', 'bingung', 'uninstall', 'tolong', 'baik', 'lipat', 'tangan']",0.0
+1325,['mantap'],0.0
+1326,[],0.0
+1327,['kecewa'],0.0
+1328,"['terima', 'kasih', 'mudah', 'transaksi']",0.0
+1329,['mantap'],0.0
+1330,"['transaksi', 'pakai', 'mudah', 'murah', 'cepat']",0.0
+1331,['mantap'],0.0
+1332,"['lancar', 'transaksi']",0.0
+1333,['bagus'],0.0
+1334,"['bantu', 'jalan', 'bisnis', 'jempol']",0.0
+1335,['guna'],0.0
+1336,"['mantap', 'jempol', 'jempol', 'jempol', 'jempol']",0.0
+1337,['bantu'],0.0
+1338,"['pospay', 'mudah', 'transaksi', 'mantap']",0.0
+1339,"['mudah', 'transaksi']",0.0
+1340,"['butuh', 'wajah', 'senyum']",0.0
+1341,['bagus'],0.0
+1342,['mantap'],0.0
+1343,[],0.0
+1344,"['tabung', 'bunga', 'potong', 'bebas', 'riba', 'mantap', 'jempol']",0.0
+1345,"['mudah', 'bayar', 'tagih']",0.0
+1346,['mantap'],0.0
+1347,['mantap'],0.0
+1348,"['mantap', 'aplikasi', 'mudah', 'transaksi']",0.0
+1349,['bantu'],0.0
+1350,['mantap'],0.0
+1351,"['bantu', 'jempol']",0.0
+1352,[],0.0
+1353,"['terima', 'kasih']",0.0
+1354,"['mantap', 'pos', 'juara']",0.0
+1355,['aplikasi'],1.0
+1356,[],0.0
+1357,"['wajah', 'tiup', 'cium']",0.0
+1358,"['mantap', 'aplikasi', 'baru', 'lambat', 'lambat', 'tugas', 'loket', 'narik', 'tunai', 'malu', 'malu', 'malu', 'aplikasi', 'baru', 'baru']",1.0
+1359,"['mantap', 'pokok', 'kurang', 'lebih', 'tingkat']",0.0
+1360,['bagus'],0.0
+1361,"['pospay', 'urus', 'mudah', 'kirim', 'isi', 'pulsa', 'isi', 'token', 'bayar', 'listrik', 'gampang', 'terima', 'kasih', 'pospay']",0.0
+1362,"['kantor pos', 'genggam', 'acung', 'jempol']",0.0
+1363,"['aplikasi', 'mudah', 'transaksi', 'butuh', 'hari']",0.0
+1364,"['simpel', 'layan', 'mudah', 'bayar', 'bayar']",0.0
+1365,"['terima kasih', 'cepat', 'tanggap', 'kendala']",0.0
+1366,['lancar'],0.0
+1367,['bagus'],0.0
+1368,"['layan', 'baik', 'kantor', 'pos', 'terima', 'kasih', 'tangan', 'lipat', 'tangan', 'lipat', 'tangan', 'lipat']",0.0
+1369,"['mantap', 'pos', 'giro', 'bantu', 'kualitas']",0.0
