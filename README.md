@@ -1,6 +1,6 @@
 # Pospay Analysis
 
-Welcome to the Pospay Analysis project! This project involves sentiment analysis of user reviews for the Pospay application, which was developed by Pos Indonesia. The data for this analysis was scraped from the Google Play Store using the Google Play Scraper library. 
+Welcome to the Pospay Analysis project! This project involves sentiment analysis of user reviews for the Pospay application, which was developed by Pos Indonesia. The data for this analysis was scraped from the Google Play Store using the Google Play Scraper library. Please leave your feedback [here](https://forms.gle/SZrjQDDvo4t45fFc9), so I could upgrade my knowledge and this project, thanks.
 
 ## Project Overview
 
